@@ -1,0 +1,200 @@
+@import "tailwindcss";
+
+/* ─── Dark mode (default) ─────────────────────────────────────────── */
+:root {
+  --bg: #07050f;
+  --bg-card: #100c20;
+  --bg-elevated: #1e1040;
+  --bg-topbar: rgba(7, 5, 15, 0.9);
+  --bg-spread: rgba(16, 12, 32, 0.8);
+  --bg-disabled: #1a1535;
+  --border: #2a1f4f;
+  --border-subtle: #1e1535;
+  --accent: #7c3aed;
+  --accent-mid: #a855f7;
+  --accent-light: #a78bfa;
+  --accent-glow: rgba(124, 58, 237, 0.25);
+  --text: #ede9fe;
+  --text-secondary: #c4b5fd;
+  --text-muted: #7c6fa0;
+  --text-dim: #3d3060;
+  --text-disabled: #4a3d6b;
+  --gold: #c9a84c;
+  --star-color: rgba(255, 255, 255, 0.8);
+
+  /* Gradient tokens */
+  --gradient-card-back: linear-gradient(145deg, #130d28 0%, #1e1040 50%, #0e0820 100%);
+  --gradient-card-front: linear-gradient(145deg, #0f0a1e 0%, #1a1035 100%);
+  --gradient-card-noimg: linear-gradient(135deg, #1a0f35 0%, #2d1b69 100%);
+  --gradient-topic-active: linear-gradient(135deg, #1e1040, #2d1b69);
+
+  /* SVG stroke colors for card ornaments */
+  --card-stroke: #a78bfa;
+  --card-stroke-accent: #c9a84c;
+  --card-inner-border: rgba(109, 40, 217, 0.3);
+}
+
+/* ─── Light mode ──────────────────────────────────────────────────── */
+[data-theme="light"] {
+  --bg: #faf9ff;
+  --bg-card: #f0ebff;
+  --bg-elevated: #e4d9ff;
+  --bg-topbar: rgba(250, 249, 255, 0.92);
+  --bg-spread: rgba(240, 235, 255, 0.88);
+  --bg-disabled: #e8e0ff;
+  --border: #c4b5fd;
+  --border-subtle: #d4c5f9;
+  --accent: #7c3aed;
+  --accent-mid: #9333ea;
+  --accent-light: #6d28d9;
+  --accent-glow: rgba(124, 58, 237, 0.12);
+  --text: #1a1035;
+  --text-secondary: #7c3aed;
+  --text-muted: #6b5b9e;
+  --text-dim: #a89bc4;
+  --text-disabled: #9d8ec4;
+  --gold: #b07d10;
+  --star-color: rgba(124, 58, 237, 0.35);
+
+  --gradient-card-back: linear-gradient(145deg, #ede9fe 0%, #ddd5f9 50%, #c4b5fd 100%);
+  --gradient-card-front: linear-gradient(145deg, #f5f0ff 0%, #ede9fe 100%);
+  --gradient-card-noimg: linear-gradient(135deg, #e4d9ff 0%, #c4b5fd 100%);
+  --gradient-topic-active: linear-gradient(135deg, #e4d9ff, #c4b5fd);
+
+  --card-stroke: #7c3aed;
+  --card-stroke-accent: #b07d10;
+  --card-inner-border: rgba(109, 40, 217, 0.2);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Inter", system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+/* Stars */
+.stars-bg {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.star {
+  position: absolute;
+  background: var(--star-color);
+  border-radius: 50%;
+  animation: twinkle var(--dur, 3s) ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+  opacity: 0;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0; }
+  50%       { opacity: var(--max-opacity, 0.6); }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+/* Glow utility */
+.glow {
+  box-shadow: 0 0 20px var(--accent-glow), 0 0 40px var(--accent-glow);
+}
+
+/* Card flip */
+.card-scene { perspective: 1000px; }
+
+.card-flip {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+  width: 100%;
+  height: 100%;
+}
+
+.card-flip.flipped { transform: rotateY(180deg); }
+
+.card-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.card-front-face { transform: rotateY(180deg); }
+
+/* Card SVG ornament theming */
+.card-svg-primary { stroke: var(--card-stroke); fill: var(--card-stroke); }
+.card-svg-accent  { stroke: var(--card-stroke-accent); fill: var(--card-stroke-accent); }
+
+/* Chat bubbles — dark */
+.chat-user {
+  background: linear-gradient(135deg, #3b1f7a, #4c1d95);
+  border: 1px solid #6d28d9;
+  color: var(--text);
+}
+
+.chat-ai {
+  background: linear-gradient(135deg, #0f0a1e, #1a0f35);
+  border: 1px solid #2a1f4f;
+  color: var(--text);
+}
+
+/* Chat bubbles — light */
+[data-theme="light"] .chat-user {
+  background: linear-gradient(135deg, #ddd5f9, #c4b5fd);
+  border: 1px solid #a78bfa;
+}
+
+[data-theme="light"] .chat-ai {
+  background: linear-gradient(135deg, #f5f0ff, #ede9fe);
+  border: 1px solid #d4c5f9;
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  position: fixed;
+  top: 1.25rem;
+  right: 1.75rem;
+  z-index: 50;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.2s;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent-light);
+  box-shadow: 0 0 14px var(--accent-glow);
+}
+
+/* Prose styling */
+.prose-tarot { line-height: 1.75; }
+.prose-tarot p { margin-bottom: 0.75rem; }
+.prose-tarot p:last-child { margin-bottom: 0; }
+.prose-tarot strong { color: var(--accent-light); font-weight: 600; }
+
+input:focus, textarea:focus { outline: none; }

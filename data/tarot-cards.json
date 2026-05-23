@@ -1,0 +1,2186 @@
+[
+  {
+    "id": "the-fool",
+    "name": "The Fool",
+    "number": 0,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/fool.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "beginnings",
+      "innocence",
+      "spontaneity",
+      "adventure"
+    ],
+    "reversed_keywords": [
+      "recklessness",
+      "naivety",
+      "foolishness",
+      "risk"
+    ],
+    "upright_meaning": "The Fool heralds new beginnings, a leap of faith, and pure potential. You stand at the precipice of a great adventure with an open heart and infinite possibilities ahead.",
+    "reversed_meaning": "Reversed, The Fool warns against recklessness and naivety. You may be rushing into something without thinking, or holding back out of fear of failure.",
+    "upright_love": "A fresh, exciting romance is on the horizon. You're entering love with an open heart and no preconceptions. Be brave, be playful, and let love unfold naturally.",
+    "reversed_love": "You or your partner may be acting immaturely in the relationship, or you might be jumping in too fast without truly knowing the other person.",
+    "upright_career": "Now is the perfect time to take a career leap — start that business, take that new role, or learn something completely new. Trust the journey.",
+    "reversed_career": "Beware of poor planning or making impulsive career decisions. Think before you leap, or you risk landing badly.",
+    "upright_friendship": "New friendships full of adventure and fun await you. Be open to meeting people from all walks of life without judgment.",
+    "reversed_friendship": "You may be taken advantage of in a friendship, or a friend is behaving recklessly. Set healthy boundaries."
+  },
+  {
+    "id": "the-magician",
+    "name": "The Magician",
+    "number": 1,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/magician.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "willpower",
+      "manifestation",
+      "resourcefulness",
+      "skill"
+    ],
+    "reversed_keywords": [
+      "manipulation",
+      "untapped potential",
+      "illusion",
+      "deceit"
+    ],
+    "upright_meaning": "The Magician is the master of manifestation. You have all the tools you need — the question is whether you'll use them. Your willpower and resourcefulness can turn dreams into reality.",
+    "reversed_meaning": "Beware of manipulation — yours or someone else's. There may be deception at play, or you're not using your full potential and wasting your gifts.",
+    "upright_love": "You have the power to create the love life you desire. Be clear about what you want and take decisive action. A magnetic, confident energy attracts romantic interest.",
+    "reversed_love": "Someone in your love life may be manipulative or not what they appear. Trust your gut if something feels off.",
+    "upright_career": "You have all the skills needed to succeed. Now is the time to showcase your abilities and take command of your career path.",
+    "reversed_career": "You may be underusing your talents, or someone at work is manipulating the situation for personal gain. Don't let others take credit for your work.",
+    "upright_friendship": "You attract people with your charisma and wit. You're the friend who always knows how to make things happen and brings the group together.",
+    "reversed_friendship": "Watch out for friends who are manipulative or who only show up when they need something from you."
+  },
+  {
+    "id": "the-high-priestess",
+    "name": "The High Priestess",
+    "number": 2,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/highpriestess.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "intuition",
+      "mystery",
+      "inner knowledge",
+      "subconscious"
+    ],
+    "reversed_keywords": [
+      "hidden agendas",
+      "blocked intuition",
+      "secrets",
+      "withdrawal"
+    ],
+    "upright_meaning": "The High Priestess urges you to look inward. Your intuition holds the answers you seek. Be still, listen deeply, and trust the wisdom that rises from within.",
+    "reversed_meaning": "Secrets are being kept from you, or you're ignoring your own intuition. Something is hidden beneath the surface — pay closer attention.",
+    "upright_love": "Trust your gut feelings about this relationship. There's more beneath the surface — take time to truly understand yourself and your partner before making decisions.",
+    "reversed_love": "Secrets or hidden truths are affecting your love life. Either you or your partner may be withholding something important.",
+    "upright_career": "Use your intuition and inner wisdom to navigate the workplace. There's more information to be gathered before making a major decision.",
+    "reversed_career": "Hidden information or office politics may be blocking your progress. Be cautious of what's not being said outright.",
+    "upright_friendship": "You are the friend who listens deeply and offers wise counsel. Your intuitive understanding of people makes you a trusted confidant.",
+    "reversed_friendship": "A friendship may have hidden layers or unspoken issues. Bring what's beneath the surface into the open."
+  },
+  {
+    "id": "the-empress",
+    "name": "The Empress",
+    "number": 3,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/empress.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "abundance",
+      "nurturing",
+      "fertility",
+      "creativity"
+    ],
+    "reversed_keywords": [
+      "dependence",
+      "smothering",
+      "creative block",
+      "neglect"
+    ],
+    "upright_meaning": "The Empress is the embodiment of abundance, beauty, and creativity. She calls you to embrace sensuality, nurture yourself and others, and trust in the natural flow of life.",
+    "reversed_meaning": "You may be smothering someone you love, or neglecting your own needs. Creative blocks or a sense of emptiness signals the need to reconnect with nature and self-care.",
+    "upright_love": "Love is lush and blooming. A relationship deepens into warmth and nurturing. This card also speaks to fertility — literal or creative.",
+    "reversed_love": "One partner may be overly dependent or smothering. Make sure love is balanced and that both people's needs are being met.",
+    "upright_career": "A creative project flourishes. Your work environment is supportive and fertile ground for growth. Embrace your creative impulses.",
+    "reversed_career": "You may be experiencing creative blocks or feeling undervalued. Time to step back and nurture your passions before burnout sets in.",
+    "upright_friendship": "You are a warm, nurturing friend who makes everyone feel welcome and cared for. Your circle blooms under your loving presence.",
+    "reversed_friendship": "A friendship may be codependent or unbalanced. Set healthy boundaries while still being compassionate."
+  },
+  {
+    "id": "the-emperor",
+    "name": "The Emperor",
+    "number": 4,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/emperor.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "authority",
+      "structure",
+      "stability",
+      "leadership"
+    ],
+    "reversed_keywords": [
+      "tyranny",
+      "rigidity",
+      "domination",
+      "loss of control"
+    ],
+    "upright_meaning": "The Emperor represents authority, structure, and solid foundations. He calls you to lead with confidence, establish clear boundaries, and take control of your world.",
+    "reversed_meaning": "Someone is being overly controlling or rigid. You may be struggling with authority — either asserting it too harshly or failing to hold it at all.",
+    "upright_love": "Stability and commitment define this relationship. A strong, reliable partner is present — or needed. Build a solid foundation together.",
+    "reversed_love": "Power struggles or controlling behavior threatens the relationship. Both partners need to examine how they handle authority and vulnerability.",
+    "upright_career": "Step into a leadership role with confidence. Structure and discipline will take you far — set goals and stick to them.",
+    "reversed_career": "A domineering boss or rigid corporate culture may be stifling you. Consider whether you need to assert more authority or seek a new environment.",
+    "upright_friendship": "You are the stable, reliable friend that everyone counts on. Your steady presence provides security for those around you.",
+    "reversed_friendship": "A friend may be domineering or controlling. True friendship requires equality — address any power imbalances."
+  },
+  {
+    "id": "the-hierophant",
+    "name": "The Hierophant",
+    "number": 5,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/heirophant.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "tradition",
+      "conformity",
+      "spiritual guidance",
+      "institutions"
+    ],
+    "reversed_keywords": [
+      "rebellion",
+      "subversiveness",
+      "new methods",
+      "unconventional"
+    ],
+    "upright_meaning": "The Hierophant honors tradition, established beliefs, and spiritual institutions. You may find guidance in conventional wisdom, a mentor, or a spiritual practice.",
+    "reversed_meaning": "You're being called to break free from convention and forge your own spiritual path. Challenge the rules that no longer serve you.",
+    "upright_love": "Traditional values — commitment, marriage, conventional courtship — are highlighted. A relationship is moving toward a more formal stage.",
+    "reversed_love": "You may be stuck in a conventional relationship that no longer fits who you are, or rebelling against commitment. Honor your true desires.",
+    "upright_career": "Working within established systems and following proven methods will bring success. A mentor figure offers valuable guidance.",
+    "reversed_career": "Conventional career paths may be stifling your growth. It's time to challenge the status quo or find a more progressive work environment.",
+    "upright_friendship": "Friendships built on shared values, traditions, and long history are highlighted. Community and belonging matter to you.",
+    "reversed_friendship": "You may be outgrowing a friendship circle that no longer aligns with your evolving values. Seek your true tribe."
+  },
+  {
+    "id": "the-lovers",
+    "name": "The Lovers",
+    "number": 6,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/lovers.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "love",
+      "harmony",
+      "alignment",
+      "choices"
+    ],
+    "reversed_keywords": [
+      "disharmony",
+      "imbalance",
+      "misaligned values",
+      "bad choices"
+    ],
+    "upright_meaning": "The Lovers signifies deep connection, aligned values, and the beauty of true partnership. It's also a card of choices — you're at a crossroads that requires you to follow your heart.",
+    "reversed_meaning": "Misaligned values or inner conflict creates disharmony. A poor choice in love or a relationship mismatch needs to be addressed honestly.",
+    "upright_love": "This is one of the most auspicious love cards. Deep, soulmate-level connection is present or coming. Honor the relationship with honesty and vulnerability.",
+    "reversed_love": "Imbalance or misalignment in the relationship. One or both partners may have conflicting values or needs. Honest communication is essential.",
+    "upright_career": "You're faced with a significant career choice. Follow your passion — alignment between your values and your work is the key to fulfillment.",
+    "reversed_career": "You may be in a career that doesn't align with your values, or facing a difficult decision between options. Listen to your heart, not just the paycheck.",
+    "upright_friendship": "A friendship with deep soul-level understanding and mutual admiration. These connections are rare and worth treasuring.",
+    "reversed_friendship": "A friendship may be tested by conflicting values or a difficult choice. Be honest with yourself and with your friend."
+  },
+  {
+    "id": "the-chariot",
+    "name": "The Chariot",
+    "number": 7,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/chariot.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "determination",
+      "control",
+      "victory",
+      "willpower"
+    ],
+    "reversed_keywords": [
+      "lack of control",
+      "aggression",
+      "obstacles",
+      "defeat"
+    ],
+    "upright_meaning": "The Chariot charges forward with fierce determination and controlled willpower. You can overcome any obstacle through discipline, focus, and the drive to succeed.",
+    "reversed_meaning": "You may be losing control — either too passive or too aggressive. Internal or external obstacles are derailing your progress.",
+    "upright_love": "Take the reins of your love life. Pursue what you want with confident determination. A relationship moves forward rapidly.",
+    "reversed_love": "Power struggles or lack of direction in the relationship. Someone is being too aggressive or too passive. Find balanced momentum.",
+    "upright_career": "Victory is within reach. Focus, discipline, and relentless drive will carry you past every obstacle. Go after your career goals boldly.",
+    "reversed_career": "You may be scattered, losing focus, or battling external forces that block your progress. Regroup and redirect your energy.",
+    "upright_friendship": "You inspire your friends with your drive and success. You're the friend who motivates everyone to push past their limits.",
+    "reversed_friendship": "Conflict or competition may be damaging a friendship. Check that ambition isn't overriding kindness."
+  },
+  {
+    "id": "strength",
+    "name": "Strength",
+    "number": 8,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/strength.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "courage",
+      "patience",
+      "inner strength",
+      "compassion"
+    ],
+    "reversed_keywords": [
+      "self-doubt",
+      "weakness",
+      "raw emotion",
+      "insecurity"
+    ],
+    "upright_meaning": "Strength isn't about brute force — it's about mastering your inner beast with grace and compassion. You have the courage and patience to tame any challenge that life presents.",
+    "reversed_meaning": "Self-doubt and insecurity are undermining your power. Raw emotions may be running unchecked. Reclaim your inner strength gently.",
+    "upright_love": "True love requires courage and patience. You may need to approach a partner or situation with gentle strength rather than force. Love can tame the wildest hearts.",
+    "reversed_love": "Insecurity or emotional vulnerability is creating problems in the relationship. Strengthen your self-worth before seeking validation from others.",
+    "upright_career": "You have what it takes to handle even the most challenging work situations. Lead with calm confidence and show your inner resilience.",
+    "reversed_career": "Self-doubt is holding you back professionally. You're stronger than you think — don't let fear or imposter syndrome stop your progress.",
+    "upright_friendship": "You're the friend who shows up with quiet strength and unwavering support. People feel safe and encouraged in your presence.",
+    "reversed_friendship": "You may be letting a difficult friend's behavior drain your energy. Set boundaries lovingly but firmly."
+  },
+  {
+    "id": "the-hermit",
+    "name": "The Hermit",
+    "number": 9,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/hermit.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "solitude",
+      "inner wisdom",
+      "reflection",
+      "guidance"
+    ],
+    "reversed_keywords": [
+      "isolation",
+      "loneliness",
+      "withdrawal",
+      "rejection"
+    ],
+    "upright_meaning": "The Hermit retreats inward to find the light of wisdom. This is a time for deep reflection, soul-searching, and trusting the quiet voice within rather than the noise of the world.",
+    "reversed_meaning": "Excessive isolation or an inability to connect with others. You may be withdrawing out of fear rather than wisdom. Don't let solitude become loneliness.",
+    "upright_love": "A period of reflection and solitude is needed before moving forward in love. Know yourself deeply before seeking a deep connection with another.",
+    "reversed_love": "You may be withdrawing from potential love out of fear, or your partner is distant and unavailable. Loneliness within the relationship needs to be addressed.",
+    "upright_career": "Take time for deep, independent research and study. Your wisdom and expertise are your greatest professional assets right now.",
+    "reversed_career": "You may be isolating yourself from colleagues or refusing to seek help. Don't be afraid to reach out — collaboration can illuminate your path.",
+    "upright_friendship": "You are the wise friend who listens more than you speak, offering thoughtful guidance when it's needed most. Your depth is your gift.",
+    "reversed_friendship": "Social withdrawal may be damaging your friendships. Make sure you're not pushing people away when you most need connection."
+  },
+  {
+    "id": "wheel-of-fortune",
+    "name": "Wheel of Fortune",
+    "number": 10,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/wheeloffortune.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "luck",
+      "cycles",
+      "destiny",
+      "turning point"
+    ],
+    "reversed_keywords": [
+      "bad luck",
+      "resistance to change",
+      "breaking cycles",
+      "setbacks"
+    ],
+    "upright_meaning": "The Wheel of Fortune turns — and now it's in your favor. Life is cyclical, and this card signals a positive turning point, unexpected luck, and the workings of destiny.",
+    "reversed_meaning": "The wheel turns against you temporarily. Setbacks and bad luck arise, but remember: the wheel always turns again. Don't resist the natural cycles of life.",
+    "upright_love": "A fateful, destined encounter or a positive turning point in your love life. What is meant for you will find you. Trust in the timing of the universe.",
+    "reversed_love": "Relationship bad luck or a pattern that keeps repeating itself. Identify the cycle and break it to invite better fortune.",
+    "upright_career": "A lucky career break arrives. Seize the opportunity — fortune favors those who are prepared when the wheel turns their way.",
+    "reversed_career": "External circumstances or bad timing create career setbacks. Ride out the rough patch — the wheel will turn again in your favor.",
+    "upright_friendship": "New friendships enter your life at just the right moment, as if guided by fate. Be open to who destiny brings to your door.",
+    "reversed_friendship": "A friendship may have run its course. It's okay to let go of connections that are no longer serving your growth."
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "number": 11,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/justice.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "fairness",
+      "truth",
+      "cause and effect",
+      "law"
+    ],
+    "reversed_keywords": [
+      "unfairness",
+      "dishonesty",
+      "bias",
+      "avoiding consequences"
+    ],
+    "upright_meaning": "Justice holds the scales of truth and fairness. Your actions have consequences — and karma is in effect. Honest self-assessment and accountability lead to true balance.",
+    "reversed_meaning": "Injustice, dishonesty, or avoiding accountability. You or someone around you is not being fair or honest. Face the consequences with integrity.",
+    "upright_love": "Fairness and honesty define healthy relationships. If there's been an injustice in your love life, the scales are evening out. Make sure you're treating your partner with respect.",
+    "reversed_love": "Injustice or dishonesty is poisoning the relationship. Bias, manipulation, or unfair treatment needs to be addressed directly.",
+    "upright_career": "Fair treatment and honest dealings define this period. Legal matters resolve in your favor. Accountability in all things brings professional respect.",
+    "reversed_career": "Workplace injustice, unfair treatment, or unethical behavior needs to be confronted. Document everything and seek proper channels.",
+    "upright_friendship": "Fairness and reciprocity are the bedrock of lasting friendships. You give as much as you receive, and this balance creates genuine trust.",
+    "reversed_friendship": "A friendship has become imbalanced or dishonest. Someone isn't holding up their end. Address this inequity directly."
+  },
+  {
+    "id": "the-hanged-man",
+    "name": "The Hanged Man",
+    "number": 12,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/hangedman.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "suspension",
+      "letting go",
+      "new perspective",
+      "sacrifice"
+    ],
+    "reversed_keywords": [
+      "stalling",
+      "resistance",
+      "needless sacrifice",
+      "delays"
+    ],
+    "upright_meaning": "The Hanged Man willingly surrenders to a higher perspective. This period of pause or suspension isn't a failure — it's an invitation to see things differently and release what no longer serves.",
+    "reversed_meaning": "You're stalling and resisting necessary change. A sacrifice you're making may be pointless. Stop delaying and either commit or let go.",
+    "upright_love": "Pause and reflect before making any love life decisions. Seeing the relationship from a new angle may reveal important truths. Sometimes love requires sacrifice.",
+    "reversed_love": "You may be stuck in relationship limbo or sacrificing too much for too little in return. Stop waiting for change that isn't coming.",
+    "upright_career": "A career pause — a gap year, waiting period, or project delay — holds hidden wisdom. Use this time to gain a new perspective on what you truly want.",
+    "reversed_career": "Stop procrastinating. You're stalling in your career when you should be making decisions. Unnecessary delay only makes things worse.",
+    "upright_friendship": "You offer friends a unique perspective and the wisdom of patient observation. Sometimes the best thing you can do is nothing at all.",
+    "reversed_friendship": "You may be stuck in a friendship where you give more than you receive. Reassess whether the sacrifice is worthwhile."
+  },
+  {
+    "id": "death",
+    "name": "Death",
+    "number": 13,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/death.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "endings",
+      "transformation",
+      "transition",
+      "letting go"
+    ],
+    "reversed_keywords": [
+      "resistance to change",
+      "stagnation",
+      "inability to move on",
+      "decay"
+    ],
+    "upright_meaning": "Death rarely signifies physical death — instead, it heralds profound transformation. An old chapter must end for a new one to begin. Embrace the endings; they make way for rebirth.",
+    "reversed_meaning": "You're clinging to something that is already over. This resistance to necessary endings causes stagnation and prevents the transformation you desperately need.",
+    "upright_love": "A relationship may be ending, or undergoing a dramatic transformation. Either way, something is permanently changing. Trust the process — what ends makes way for something better.",
+    "reversed_love": "Unable to let go of a dead relationship or a past love. The grief is real, but staying stuck prevents new love from entering.",
+    "upright_career": "A career chapter is closing — a job ends, a project concludes, or an old professional identity falls away. Welcome the transformation and step into the new.",
+    "reversed_career": "You're clinging to a job or career path that has run its course. Fear of change is keeping you stuck in something that no longer serves you.",
+    "upright_friendship": "A friendship may be coming to a natural end as you both grow in different directions. Honor the time you had and release it with grace.",
+    "reversed_friendship": "You're holding on to a friendship that has outgrown itself out of guilt or habit. Know when to let go."
+  },
+  {
+    "id": "temperance",
+    "name": "Temperance",
+    "number": 14,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/temperance.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "balance",
+      "patience",
+      "moderation",
+      "purpose"
+    ],
+    "reversed_keywords": [
+      "imbalance",
+      "excess",
+      "lack of patience",
+      "conflict"
+    ],
+    "upright_meaning": "Temperance calls for patience, balance, and the art of blending opposites into something harmonious. You're finding your flow and aligning with your higher purpose.",
+    "reversed_meaning": "Excess, imbalance, and impatience are creating chaos. You're pushing too hard or swinging between extremes. Find the middle ground.",
+    "upright_love": "A relationship that flows and balances beautifully. Two people who complement each other and bring out the best in each other. Take things slowly and savor the process.",
+    "reversed_love": "Imbalance or excess is straining the relationship. One partner may be giving too much while the other takes too much. Recalibrate together.",
+    "upright_career": "A balanced, patient approach to your career yields the best results. Don't rush — you're exactly where you need to be right now.",
+    "reversed_career": "Burnout or imbalance between work and personal life. You're doing too much of one thing and not enough of another. Recalibrate your priorities.",
+    "upright_friendship": "You're the friend who brings calm and balance to any situation. Your patience and even-handed nature makes you someone everyone loves being around.",
+    "reversed_friendship": "Imbalance in giving and receiving within a friendship. Address the imbalance before resentment builds."
+  },
+  {
+    "id": "the-devil",
+    "name": "The Devil",
+    "number": 15,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/devil.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "bondage",
+      "addiction",
+      "materialism",
+      "shadow self"
+    ],
+    "reversed_keywords": [
+      "releasing limitations",
+      "detachment",
+      "breaking free",
+      "reclaiming power"
+    ],
+    "upright_meaning": "The Devil reveals the chains that bind you — and shows that many of them are of your own making. Addiction, materialism, toxic patterns, and shadow aspects of self need to be confronted.",
+    "reversed_meaning": "Breaking free from bondage! You're releasing limiting beliefs, toxic relationships, or addictive patterns. Reclaim your power and step out of the shadows.",
+    "upright_love": "A relationship defined by obsession, toxic patterns, or unhealthy attachment. You may feel bound to someone who isn't good for you. Face the shadow and decide.",
+    "reversed_love": "You're breaking free from a toxic relationship or unhealthy attachment. Liberation is possible — and it begins with you.",
+    "upright_career": "You may feel trapped in a job or financial situation that feels soul-draining. Are you staying for the money, the fear, or the security? Examine what truly chains you.",
+    "reversed_career": "You're breaking free from a career that no longer aligns with your values. The chains are loosening — step out and claim your authentic path.",
+    "upright_friendship": "A friendship that may have a toxic, codependent, or manipulative dynamic. Recognize the patterns and decide what you're willing to accept.",
+    "reversed_friendship": "You're freeing yourself from a toxic friendship. This liberation is healthy and necessary for your wellbeing."
+  },
+  {
+    "id": "the-tower",
+    "name": "The Tower",
+    "number": 16,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/tower.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "upheaval",
+      "chaos",
+      "revelation",
+      "sudden change"
+    ],
+    "reversed_keywords": [
+      "avoiding disaster",
+      "fear of change",
+      "resisting upheaval",
+      "delayed chaos"
+    ],
+    "upright_meaning": "The Tower strikes like lightning — sudden, jarring, and impossible to ignore. But what crumbles was built on false foundations. The destruction clears the way for authentic rebuilding.",
+    "reversed_meaning": "You're resisting an inevitable upheaval, or disaster is delayed but not avoided. Face the truth before it forces itself upon you.",
+    "upright_love": "A sudden, shocking revelation changes everything in your love life. A relationship built on shaky ground crumbles. Though painful, it makes way for something real.",
+    "reversed_love": "You're avoiding the breakdown of a relationship that has been failing for a long time. Denial won't prevent the inevitable — address the core issues now.",
+    "upright_career": "A sudden career upheaval — a layoff, a company collapse, a dramatic shift — disrupts everything. What appears as disaster may be liberation in disguise.",
+    "reversed_career": "You sense career instability but are refusing to act. Prepare for potential upheaval rather than hoping it passes.",
+    "upright_friendship": "A shocking revelation or betrayal shatters a friendship. Though painful, this truth was necessary to surface.",
+    "reversed_friendship": "You're holding on to a friendship that has been slowly falling apart. Accept the reality and address it directly."
+  },
+  {
+    "id": "the-star",
+    "name": "The Star",
+    "number": 17,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/star.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "hope",
+      "renewal",
+      "inspiration",
+      "serenity"
+    ],
+    "reversed_keywords": [
+      "hopelessness",
+      "despair",
+      "lack of faith",
+      "disconnection"
+    ],
+    "upright_meaning": "After the storm, The Star appears — a beacon of hope, renewal, and divine grace. This is a period of healing, inspiration, and trust that the universe has your back.",
+    "reversed_meaning": "You've lost faith in yourself or the universe. Despair and hopelessness cloud your vision. Look for the tiny spark of hope that still burns within.",
+    "upright_love": "Hope and healing flow into your love life. After difficulties, a new dawn of love, peace, and authentic connection emerges. Be open to receiving.",
+    "reversed_love": "Loss of hope about love. You may feel disconnected from romantic possibility. Gently tend to your own wounds before opening to love again.",
+    "upright_career": "An inspired, hopeful period in your career. Your creative vision shines brightly. Trust in your unique gifts and let them guide your professional path.",
+    "reversed_career": "Lack of inspiration or hope about your career direction. Reconnect with what originally called you to this path — your spark is still there.",
+    "upright_friendship": "A friendship that feels like a guiding star — uplifting, inspiring, and healing. These connections renew your faith in the goodness of people.",
+    "reversed_friendship": "You may feel disconnected from your friends or hopeless about meaningful connection. Tend to yourself, and the right connections will follow."
+  },
+  {
+    "id": "the-moon",
+    "name": "The Moon",
+    "number": 18,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/moon.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "illusion",
+      "fear",
+      "subconscious",
+      "confusion"
+    ],
+    "reversed_keywords": [
+      "releasing fear",
+      "clarity emerging",
+      "repressed emotions",
+      "deception revealed"
+    ],
+    "upright_meaning": "The Moon illuminates the shadowy landscape of the subconscious. Illusions, fears, and deceptions lurk here. Don't trust everything at face value — look deeper for hidden truths.",
+    "reversed_meaning": "The fog is lifting and illusions are dissolving. What was hidden comes to light. Repressed fears and emotions are surfacing to be healed.",
+    "upright_love": "Things in the relationship are not as they appear. Hidden fears, illusions, or deceptions cloud your judgment. Seek clarity before making decisions.",
+    "reversed_love": "A deception or hidden truth in your love life is about to be revealed. Though uncomfortable, the clarity that follows is a gift.",
+    "upright_career": "Confusion and uncertainty surround your career situation. Don't make major decisions without more information. Trust your instincts but verify the facts.",
+    "reversed_career": "Clarity is emerging after a period of professional confusion. Hidden workplace dynamics or deceit are coming to light.",
+    "upright_friendship": "Something in a friendship is not what it seems. Hidden motives or fears are coloring your perception. Seek honest conversation to cut through the fog.",
+    "reversed_friendship": "A secret or deception in a friendship is being revealed. The truth, though surprising, allows for a more honest connection going forward."
+  },
+  {
+    "id": "the-sun",
+    "name": "The Sun",
+    "number": 19,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/sun.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "joy",
+      "success",
+      "vitality",
+      "clarity"
+    ],
+    "reversed_keywords": [
+      "temporary depression",
+      "lack of clarity",
+      "sadness",
+      "inner child wounds"
+    ],
+    "upright_meaning": "The Sun blazes with joy, success, and pure radiant energy. Everything is clear, bright, and thriving. Celebrate — you have arrived at a moment of genuine happiness and fulfillment.",
+    "reversed_meaning": "The sunshine is temporarily dimmed. A bout of sadness, lack of clarity, or inner child wounds dim your light. But the sun always rises again.",
+    "upright_love": "Radiant joy and genuine happiness in love. A relationship that feels sunny, warm, and life-giving. This is love at its most beautiful — simple, honest, and joyful.",
+    "reversed_love": "A dimming of joy in your love life. Temporary sadness or disconnection. Nurture yourself and your inner child — joy in love will return.",
+    "upright_career": "Success, recognition, and joy in your work. Your efforts are seen and celebrated. This is your time to shine professionally.",
+    "reversed_career": "Lack of motivation or joy in your career. The work that once lit you up may feel dull. Reconnect with the purpose behind what you do.",
+    "upright_friendship": "Friendships that are genuinely joyful, sunny, and life-affirming. You and your friends bring out the best in each other with warmth and laughter.",
+    "reversed_friendship": "You may be feeling disconnected or unhappy with your social life. Inner work and self-care will naturally attract more joyful connections."
+  },
+  {
+    "id": "judgement",
+    "name": "Judgement",
+    "number": 20,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/judgment.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "reckoning",
+      "rebirth",
+      "absolution",
+      "inner calling"
+    ],
+    "reversed_keywords": [
+      "self-doubt",
+      "refusal to learn",
+      "ignoring the call",
+      "harsh self-criticism"
+    ],
+    "upright_meaning": "Judgement heralds a profound reckoning and rebirth. You're being called to rise — to evaluate your past honestly, release what no longer serves, and answer the call of your highest self.",
+    "reversed_meaning": "Self-doubt and harsh self-criticism block your ability to hear your soul's calling. Fear of judgment — from self or others — keeps you from taking the next step.",
+    "upright_love": "A profound reckoning in your love life — a second chance, a forgiveness of the past, or a realization about what you truly want. Answer the call of your heart.",
+    "reversed_love": "Unable to forgive yourself or a partner for past mistakes. Unresolved guilt or shame is blocking genuine love. Extend compassion to yourself first.",
+    "upright_career": "A career reckoning — a calling you've been ignoring is growing louder. It's time to answer it and align your work with your soul's purpose.",
+    "reversed_career": "Ignoring your professional calling out of fear or self-doubt. Harsh self-judgment prevents you from seeing your true potential.",
+    "upright_friendship": "A friendship is being reevaluated at a soul level. Past grievances are forgiven and a deeper, more authentic connection is forged.",
+    "reversed_friendship": "Inability to forgive a friend or yourself for past wrongs. Healing this relationship requires radical compassion."
+  },
+  {
+    "id": "the-world",
+    "name": "The World",
+    "number": 21,
+    "arcana": "major",
+    "suit": null,
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/world.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "completion",
+      "integration",
+      "accomplishment",
+      "wholeness"
+    ],
+    "reversed_keywords": [
+      "incompletion",
+      "shortcuts",
+      "delay",
+      "carrying baggage"
+    ],
+    "upright_meaning": "The World marks the triumphant completion of a major life cycle. You have arrived — accomplished, whole, and integrated. Celebrate how far you've come before beginning the next great journey.",
+    "reversed_meaning": "A cycle is almost complete but not quite finished. Shortcuts and unresolved baggage prevent true wholeness. Do the final work before moving on.",
+    "upright_love": "A relationship reaching its highest expression — deep, complete, and fully integrated. This is love at its most fulfilling and whole. Celebrate what you've built.",
+    "reversed_love": "Something in the relationship remains unresolved or incomplete. Address the lingering issues before you can experience true partnership wholeness.",
+    "upright_career": "The pinnacle of career achievement — a project completed, a goal reached, a dream realized. Honor your accomplishment and prepare for the next adventure.",
+    "reversed_career": "So close to success, yet something remains unfinished. Don't cut corners — complete the work fully before declaring victory.",
+    "upright_friendship": "A friendship that has journeyed through everything together and emerged stronger and more complete. This is a lifelong bond forged through shared experience.",
+    "reversed_friendship": "Unresolved issues in a long-term friendship need attention before the relationship can reach its fullest potential."
+  },
+  {
+    "id": "ace-of-wands",
+    "name": "Ace of Wands",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/acewands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "inspiration",
+      "new beginnings",
+      "potential",
+      "creativity"
+    ],
+    "reversed_keywords": [
+      "delays",
+      "lack of motivation",
+      "wasted potential",
+      "missed opportunities"
+    ],
+    "upright_meaning": "A spark of pure creative inspiration lights the way. New beginnings in passion, creativity, and entrepreneurship are yours for the taking. The potential is limitless.",
+    "reversed_meaning": "Creative blocks, delays, or wasted potential. The spark exists but isn't being channeled effectively. Reignite your passion.",
+    "upright_love": "An exciting, passionate new relationship or a fresh spark in an existing one. The chemistry is undeniable and electrifying.",
+    "reversed_love": "The passion in a relationship is fading or a new connection is stalling before it begins. Reignite the spark.",
+    "upright_career": "A brilliant new idea or creative project takes flight. Entrepreneurial energy is at its peak — act on your inspiration now.",
+    "reversed_career": "A promising idea or project faces delays or falls flat. Examine what's blocking the creative flow.",
+    "upright_friendship": "An exciting new friendship that sparks creativity and adventure. You inspire each other to be bolder.",
+    "reversed_friendship": "A friendship that started with great potential but has stalled. Revisit what brought you together."
+  },
+  {
+    "id": "two-of-wands",
+    "name": "Two of Wands",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/2wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "planning",
+      "future vision",
+      "progress",
+      "discovery"
+    ],
+    "reversed_keywords": [
+      "fear of change",
+      "poor planning",
+      "lack of vision",
+      "playing it safe"
+    ],
+    "upright_meaning": "You stand surveying your kingdom with eyes fixed on the horizon. Bold plans for the future are forming. The world is your oyster — dare to dream bigger.",
+    "reversed_meaning": "Fear of the unknown keeps you from pursuing your vision. Poor planning or an unwillingness to leave your comfort zone stalls your progress.",
+    "upright_love": "Planning a future together with a partner. The relationship is progressing with clarity and intention toward shared goals.",
+    "reversed_love": "Fear of commitment or lack of planning in the relationship. Neither partner is sure where things are heading.",
+    "upright_career": "A bold new business plan or career strategy takes shape. You're thinking long-term and positioning yourself for major success.",
+    "reversed_career": "Lack of vision or fear of taking the next step professionally. You need a clearer plan of action.",
+    "upright_friendship": "Planning adventures and future experiences with a close friend. This friendship supports your biggest ambitions.",
+    "reversed_friendship": "A friendship that lacks direction or shared vision for the future."
+  },
+  {
+    "id": "three-of-wands",
+    "name": "Three of Wands",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/3wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "expansion",
+      "foresight",
+      "overseas opportunities",
+      "progress"
+    ],
+    "reversed_keywords": [
+      "obstacles",
+      "delays",
+      "frustration",
+      "restricted growth"
+    ],
+    "upright_meaning": "Your ships are coming in. The seeds you planted are bearing fruit, and expansion — possibly into foreign territory — is on the horizon. Your foresight is paying off.",
+    "reversed_meaning": "Obstacles and frustrating delays block your expansion. Plans don't materialize as expected. Reassess your strategy.",
+    "upright_love": "A relationship that is growing and expanding. Perhaps you and a partner are talking about taking things to the next level or exploring life together.",
+    "reversed_love": "A relationship that feels stuck or whose growth is being blocked by external obstacles.",
+    "upright_career": "Your career is expanding, possibly into international or broader markets. The efforts you've made are beginning to show tangible results.",
+    "reversed_career": "Career growth is frustratingly slow. External obstacles or poor planning are blocking expansion.",
+    "upright_friendship": "A friendship that expands your world — perhaps a friend from another culture or background who broadens your perspective.",
+    "reversed_friendship": "A friendship hindered by distance, misunderstandings, or external complications."
+  },
+  {
+    "id": "four-of-wands",
+    "name": "Four of Wands",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/4wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "celebration",
+      "homecoming",
+      "community",
+      "stability"
+    ],
+    "reversed_keywords": [
+      "unstable foundations",
+      "lack of community",
+      "transition",
+      "canceled plans"
+    ],
+    "upright_meaning": "A time for celebration, homecoming, and community joy. Your foundations are solid and there's reason to gather, toast, and enjoy the fruits of your labors with loved ones.",
+    "reversed_meaning": "A celebration is disrupted, or the foundations of your home and community feel unstable. Don't ignore the cracks.",
+    "upright_love": "Celebration and joy in love — perhaps an engagement, anniversary, or a milestone reached together. Domestic happiness and family harmony.",
+    "reversed_love": "Instability in the home or relationship. What should be a celebration is marred by underlying tension.",
+    "upright_career": "Celebrating a work milestone or team success. A positive, supportive work community makes achievements more meaningful.",
+    "reversed_career": "Workplace instability or a canceled professional milestone. The foundations of your career situation need attention.",
+    "upright_friendship": "A joyful gathering with your circle of friends. Celebrating together strengthens the bonds of belonging.",
+    "reversed_friendship": "Plans with friends fall through or a social gathering is marred by tension."
+  },
+  {
+    "id": "five-of-wands",
+    "name": "Five of Wands",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/5wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "conflict",
+      "competition",
+      "tension",
+      "diversity"
+    ],
+    "reversed_keywords": [
+      "conflict avoidance",
+      "inner conflict",
+      "agreements",
+      "resolution"
+    ],
+    "upright_meaning": "Competition, conflict, and the clash of diverse ideas fill the air. Though chaotic, this friction can spark innovation. Engage with the debate rather than avoiding it.",
+    "reversed_meaning": "You're avoiding necessary conflict or experiencing inner turmoil. Suppressing tension only allows it to fester.",
+    "upright_love": "Disagreements and conflict in the relationship. You may be fighting about everything right now. Or perhaps competition for someone's attention.",
+    "reversed_love": "Avoiding necessary conflict in the relationship. Suppressed tension will eventually surface — address it now.",
+    "upright_career": "A competitive work environment where ideas clash. Don't shy away from healthy debate — your voice matters in the discourse.",
+    "reversed_career": "Inner conflict about your career direction. You're at war with yourself over competing options.",
+    "upright_friendship": "Tensions and disagreements in your friend group. Healthy debate is fine, but watch that it doesn't devolve into lasting conflict.",
+    "reversed_friendship": "Avoiding a necessary confrontation with a friend. What you don't address will eventually surface."
+  },
+  {
+    "id": "six-of-wands",
+    "name": "Six of Wands",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/6wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "victory",
+      "recognition",
+      "success",
+      "self-confidence"
+    ],
+    "reversed_keywords": [
+      "ego",
+      "fall from grace",
+      "lack of recognition",
+      "excessive pride"
+    ],
+    "upright_meaning": "Victory! Recognition and public acclaim come your way. You've succeeded against the odds and the world is celebrating. Enjoy your moment in the sun.",
+    "reversed_meaning": "Pride before a fall, or a victory that goes unacknowledged. Check your ego and make sure success doesn't breed arrogance.",
+    "upright_love": "Confidence and a sense of victory in love. You feel proud to be with your partner, or a romantic pursuit is crowned with success.",
+    "reversed_love": "Pride or ego is causing problems in the relationship. Or a romantic pursuit fails to receive the acknowledgment you hoped for.",
+    "upright_career": "Professional recognition and a public victory. Your hard work is being acknowledged by peers, managers, and clients alike.",
+    "reversed_career": "A fall from professional grace or a victory that feels hollow. Check that ego isn't alienating colleagues.",
+    "upright_friendship": "Being celebrated by your friends for a victory. Your friends are your biggest cheerleaders right now.",
+    "reversed_friendship": "A friend's success breeds jealousy, or your own ego is damaging a friendship. Check competitive feelings."
+  },
+  {
+    "id": "seven-of-wands",
+    "name": "Seven of Wands",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/7wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "challenge",
+      "perseverance",
+      "defensive",
+      "conviction"
+    ],
+    "reversed_keywords": [
+      "giving up",
+      "overwhelmed",
+      "self-doubt",
+      "surrender"
+    ],
+    "upright_meaning": "You're on top but being challenged. Hold your ground with conviction. This isn't the time to back down — defend what you've worked for with courage.",
+    "reversed_meaning": "You're feeling overwhelmed and on the verge of giving up. Exhaustion or self-doubt makes you question whether the battle is worth fighting.",
+    "upright_love": "Fighting for a relationship worth keeping. Don't let outside interference or your own doubts cause you to give up on love.",
+    "reversed_love": "Giving up the fight in a relationship. Either the battle isn't worth it, or you're too exhausted to continue. Discern the difference.",
+    "upright_career": "Competition and challenges at work require you to stand your ground and defend your position. Stay confident in your expertise.",
+    "reversed_career": "Overwhelmed by competition or workplace challenges. You may be wondering if it's time to retreat and regroup.",
+    "upright_friendship": "Defending a friendship or a friend under attack. Standing up for those you care about with courage and loyalty.",
+    "reversed_friendship": "Exhausted by drama in your social circle. Sometimes the best choice is to step back and preserve your energy."
+  },
+  {
+    "id": "eight-of-wands",
+    "name": "Eight of Wands",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/8wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "speed",
+      "movement",
+      "swift action",
+      "quick decisions"
+    ],
+    "reversed_keywords": [
+      "delays",
+      "frustration",
+      "slowing down",
+      "chaos"
+    ],
+    "upright_meaning": "Things are moving fast! The Eight of Wands signals a period of rapid movement, swift decisions, and exciting momentum. Act quickly and ride the wave.",
+    "reversed_meaning": "Frustrating delays and chaotic energy slow everything to a crawl. Take a breath, reassess, and wait for the right moment to move.",
+    "upright_love": "Things are moving quickly in love — messages flying, dates happening, feelings developing fast. Go with the exciting flow.",
+    "reversed_love": "Communication delays or mixed signals create romantic frustration. Slow down and clarify before moving forward.",
+    "upright_career": "A fast-paced period at work. Projects move quickly, decisions are made rapidly, and momentum builds. Keep up the energy.",
+    "reversed_career": "Projects stall and frustrating delays emerge. Miscommunication may be causing bottlenecks. Clarify and realign.",
+    "upright_friendship": "An exciting whirlwind of social activity — new friendships forming fast, plans being made, life moving at an exhilarating pace.",
+    "reversed_friendship": "Miscommunication or delayed responses create misunderstandings with friends. Clarify your intentions directly."
+  },
+  {
+    "id": "nine-of-wands",
+    "name": "Nine of Wands",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/9wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "resilience",
+      "persistence",
+      "last stretch",
+      "stamina"
+    ],
+    "reversed_keywords": [
+      "exhaustion",
+      "giving up",
+      "paranoia",
+      "defensiveness"
+    ],
+    "upright_meaning": "Battered but still standing. The Nine of Wands speaks to resilience and determination in the face of exhaustion. You're in the final stretch — don't give up now.",
+    "reversed_meaning": "Complete exhaustion has depleted your resilience. You may be overly defensive or paranoid from past wounds. Rest before you burn out completely.",
+    "upright_love": "Despite relationship challenges and past hurt, you persist. The resilience required to work through difficulties is what builds true love.",
+    "reversed_love": "Past wounds are making you overly defensive in love. Your guard is so high that genuine connection is blocked.",
+    "upright_career": "You're exhausted but almost at the finish line. Dig deep and push through — the breakthrough is closer than it appears.",
+    "reversed_career": "Burnout is real and imminent. You need rest, not more pushing. Take a step back before complete collapse.",
+    "upright_friendship": "Standing by a friend through difficult times with weary but unwavering loyalty. True friendship is tested by endurance.",
+    "reversed_friendship": "Past betrayals have made you overly suspicious in friendships. Allow yourself to trust again, carefully."
+  },
+  {
+    "id": "ten-of-wands",
+    "name": "Ten of Wands",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/10wands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "burden",
+      "extra responsibility",
+      "hard work",
+      "completion"
+    ],
+    "reversed_keywords": [
+      "overload",
+      "delegation",
+      "burning out",
+      "dropping the bundle"
+    ],
+    "upright_meaning": "You're carrying too much. The Ten of Wands speaks to burdens that weigh heavily on your shoulders. You may be near completion — but ask yourself what you can lay down.",
+    "reversed_meaning": "Burnout from carrying too much for too long. It's time to delegate, release some responsibilities, or simply drop what isn't yours to carry.",
+    "upright_love": "The relationship may feel heavy with obligation and responsibility. Make sure the burden is shared equally between partners.",
+    "reversed_love": "One partner is carrying all the weight in the relationship. This imbalance is unsustainable — redistribute the load.",
+    "upright_career": "Overloaded with work and responsibilities. You're giving everything and approaching burnout. Prioritize and delegate.",
+    "reversed_career": "Refusing to delegate or let go of control is causing professional burnout. Trust others to share the load.",
+    "upright_friendship": "You may be the friend everyone leans on, but who supports you? Make sure your friendships are reciprocal.",
+    "reversed_friendship": "You've been carrying the weight of someone else's problems for too long. It's okay to release what isn't yours to carry."
+  },
+  {
+    "id": "page-of-wands",
+    "name": "Page of Wands",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/pagewands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "enthusiasm",
+      "exploration",
+      "discovery",
+      "free spirit"
+    ],
+    "reversed_keywords": [
+      "delays",
+      "lack of direction",
+      "scattered energy",
+      "immaturity"
+    ],
+    "upright_meaning": "The Page of Wands bursts onto the scene with infectious enthusiasm and wide-eyed wonder. A new creative adventure or exciting message is on its way.",
+    "reversed_meaning": "Creative energy is scattered or blocked. Immaturity, lack of direction, or unreliable communication creates frustration.",
+    "upright_love": "An exciting, flirtatious energy in love. A new admirer may appear or an existing relationship finds its spark again. Stay playful.",
+    "reversed_love": "Immature or unreliable behavior in love. A flirtatious connection doesn't deepen into something real.",
+    "upright_career": "A fresh, exciting new job opportunity or creative project. Embrace the learning process with curiosity and enthusiasm.",
+    "reversed_career": "Career immaturity or scattered energy. Focus is needed to turn exciting ideas into concrete results.",
+    "upright_friendship": "A new friend who is exciting, adventurous, and full of energy. This person brings fun and spontaneity to your life.",
+    "reversed_friendship": "An unreliable or immature friend who can't follow through on commitments."
+  },
+  {
+    "id": "knight-of-wands",
+    "name": "Knight of Wands",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/knightwands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "action",
+      "adventure",
+      "fearlessness",
+      "impulsive"
+    ],
+    "reversed_keywords": [
+      "recklessness",
+      "haste",
+      "scattered energy",
+      "no follow-through"
+    ],
+    "upright_meaning": "The Knight of Wands charges forward with fearless energy and boundless enthusiasm. He's the adventurer, the trailblazer — acting fast and seeking excitement.",
+    "reversed_meaning": "Reckless, impulsive behavior without thought for consequences. All fire and no follow-through. Slow down before you crash.",
+    "upright_love": "A passionate, exciting romantic pursuit. The Knight of Wands sweeps you off your feet with intensity. Enjoy the ride, but make sure there's substance beneath the fire.",
+    "reversed_love": "Reckless or unreliable romantic behavior. All passion and no commitment. A partner who burns hot and fast but can't sustain the flame.",
+    "upright_career": "Taking bold, fast action in your career. The entrepreneurial spirit is strong — act on your ideas before the competition does.",
+    "reversed_career": "Impulsive decisions without proper planning lead to professional chaos. Look before you leap.",
+    "upright_friendship": "An adventurous friend who drags you into exciting experiences. Life with them is never dull.",
+    "reversed_friendship": "A friend who's all talk and no follow-through. They make exciting plans but rarely execute."
+  },
+  {
+    "id": "queen-of-wands",
+    "name": "Queen of Wands",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/queenwands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "confidence",
+      "independence",
+      "charisma",
+      "determination"
+    ],
+    "reversed_keywords": [
+      "jealousy",
+      "demanding",
+      "low confidence",
+      "self-centered"
+    ],
+    "upright_meaning": "The Queen of Wands radiates magnetic confidence and fierce independence. She knows what she wants and goes after it with charisma and unstoppable determination.",
+    "reversed_meaning": "Jealousy, insecurity, or demanding behavior undermine your natural charisma. Reclaim your inner fire without burning others.",
+    "upright_love": "Confident, passionate love. You know your worth and attract partners who meet your energy. A relationship filled with vitality and mutual admiration.",
+    "reversed_love": "Jealousy or controlling behavior strains the relationship. Or low self-confidence makes you question your worth as a partner.",
+    "upright_career": "You command the room with your charisma and competence. Leadership comes naturally, and others are drawn to follow your lead.",
+    "reversed_career": "Insecurity masked as arrogance, or genuine self-doubt blocking your professional shine. Reconnect with your innate strengths.",
+    "upright_friendship": "You're the magnetic, inspiring friend who lights up every room. People are drawn to your confidence and warmth.",
+    "reversed_friendship": "Jealousy of a friend's success or demanding behavior damages the friendship. Check your ego."
+  },
+  {
+    "id": "king-of-wands",
+    "name": "King of Wands",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "wands",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/kingwands.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "leadership",
+      "vision",
+      "entrepreneur",
+      "honor"
+    ],
+    "reversed_keywords": [
+      "impulsiveness",
+      "ruthlessness",
+      "high expectations",
+      "domineering"
+    ],
+    "upright_meaning": "The King of Wands is the visionary leader — bold, decisive, and commanding. He turns grand visions into reality through sheer force of will and inspired leadership.",
+    "reversed_meaning": "A ruthless, domineering leader who rules through fear. Or impulsive, rash decision-making that undermines your authority.",
+    "upright_love": "A passionate, charismatic partner who takes the lead in love. A relationship defined by vision, excitement, and shared ambition.",
+    "reversed_love": "A domineering or controlling partner. Or your own high expectations are creating an impossible standard for love.",
+    "upright_career": "You are (or are working for) a visionary leader who inspires the team toward a bold future. Entrepreneurial energy is at its peak.",
+    "reversed_career": "A ruthless or impulsive boss creates a difficult work environment. Or you're letting ego and arrogance derail your leadership.",
+    "upright_friendship": "A charismatic, inspiring friend who leads the group with enthusiasm and honor. You'd follow them anywhere.",
+    "reversed_friendship": "A friend who dominates the friendship on their terms. Establish boundaries."
+  },
+  {
+    "id": "ace-of-cups",
+    "name": "Ace of Cups",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/acecups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "love",
+      "new relationships",
+      "compassion",
+      "creativity"
+    ],
+    "reversed_keywords": [
+      "emotional loss",
+      "blocked feelings",
+      "empty feelings",
+      "creative block"
+    ],
+    "upright_meaning": "The Ace of Cups overflows with pure love, emotional new beginnings, and spiritual connection. Your heart is open and ready to give and receive love in its fullest expression.",
+    "reversed_meaning": "Emotional emptiness or blocked feelings. Love that can't flow freely due to past wounds or self-protection. Open the floodgates gently.",
+    "upright_love": "New love is here or arriving. Your heart is open and ready for a deep, authentic connection. This is the beginning of something beautiful.",
+    "reversed_love": "Emotional blocks prevent you from experiencing love fully. Past hurts close your heart when it most needs to open.",
+    "upright_career": "A new creative project or collaboration fills you with emotional fulfillment and inspiration. Work feels meaningful and heart-centered.",
+    "reversed_career": "Creative blocks or emotional disconnection from your work. Find what once made your work feel meaningful.",
+    "upright_friendship": "A new friendship that opens your heart and fills you with warmth. This connection feels fated and emotionally nourishing.",
+    "reversed_friendship": "Emotional withdrawal makes it difficult to connect deeply with friends. Tend to your inner world first."
+  },
+  {
+    "id": "two-of-cups",
+    "name": "Two of Cups",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/2cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "unity",
+      "partnership",
+      "mutual attraction",
+      "connection"
+    ],
+    "reversed_keywords": [
+      "disharmony",
+      "broken relationship",
+      "imbalance",
+      "separation"
+    ],
+    "upright_meaning": "The Two of Cups celebrates deep mutual connection and harmonious partnership. Two souls meeting as equals, creating a bond of profound love and respect.",
+    "reversed_meaning": "A rift or imbalance in a relationship. The harmony that once existed has been disrupted. Honest communication can begin the healing.",
+    "upright_love": "One of the most beautiful love cards — a soulmate connection, a new relationship of equals, or a deepening of mutual love and commitment.",
+    "reversed_love": "Disharmony, miscommunication, or a painful separation in love. The connection needs work to be restored.",
+    "upright_career": "A beautiful professional partnership or collaboration that is mutually beneficial and harmonious. Two people working together in perfect sync.",
+    "reversed_career": "A business partnership or collaboration that has become imbalanced or strained. Address the tension directly.",
+    "upright_friendship": "A deep, soulmate-level friendship of absolute mutual understanding and support. These are the friendships that last a lifetime.",
+    "reversed_friendship": "A once-close friendship has drifted or been damaged by misunderstanding. Open communication can bridge the gap."
+  },
+  {
+    "id": "three-of-cups",
+    "name": "Three of Cups",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/3cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "celebration",
+      "friendship",
+      "creativity",
+      "community"
+    ],
+    "reversed_keywords": [
+      "overindulgence",
+      "gossip",
+      "isolation",
+      "third party"
+    ],
+    "upright_meaning": "A joyful celebration with your beloved community. The Three of Cups calls you to gather, raise your glass, and rejoice in the abundance of love and friendship surrounding you.",
+    "reversed_meaning": "Overindulgence, gossip, or a third-party situation creates problems. Social isolation or a falling out with your community.",
+    "upright_love": "A celebration in love — a commitment, an announcement, or a joyful milestone. Or a love that blooms within a friend group.",
+    "reversed_love": "A love triangle or third-party interference in the relationship. Gossip or group dynamics creating problems.",
+    "upright_career": "Celebrating a team victory or creative success. The joy of collaborative work and a supportive professional community.",
+    "reversed_career": "Office gossip or overindulgence is affecting professional life. A team that should be celebrating is instead divided.",
+    "upright_friendship": "Your friendships are a source of pure joy, celebration, and community. These bonds nourish your soul.",
+    "reversed_friendship": "Gossip, cliques, or social overindulgence is creating tension in your friend group. Address drama before it escalates."
+  },
+  {
+    "id": "four-of-cups",
+    "name": "Four of Cups",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/4cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "contemplation",
+      "apathy",
+      "reevaluation",
+      "discontent"
+    ],
+    "reversed_keywords": [
+      "retreat",
+      "withdrawal",
+      "new perspective",
+      "motivation returns"
+    ],
+    "upright_meaning": "The Four of Cups finds you in a period of introspection and mild discontent. A new opportunity is being offered, but you're too absorbed in contemplation to notice it.",
+    "reversed_meaning": "After a period of introspection, clarity returns. You're ready to re-engage with life, love, and opportunities that were previously overlooked.",
+    "upright_love": "Emotional apathy or dissatisfaction in love. You may be too focused on what's missing rather than appreciating what's in front of you.",
+    "reversed_love": "Emerging from emotional withdrawal. You're beginning to appreciate what you have and opening back up to love.",
+    "upright_career": "A lack of motivation or enthusiasm for your work. You're going through the motions. A new opportunity may be right in front of you if you look up.",
+    "reversed_career": "Returning motivation and fresh perspective on your work. You're ready to engage with new opportunities.",
+    "upright_friendship": "Feeling disconnected or apathetic about your social life. You may be withdrawing from friendships without quite knowing why.",
+    "reversed_friendship": "Returning to social engagement after a period of withdrawal. Your friends have missed you."
+  },
+  {
+    "id": "five-of-cups",
+    "name": "Five of Cups",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/5cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "grief",
+      "loss",
+      "regret",
+      "disappointment"
+    ],
+    "reversed_keywords": [
+      "acceptance",
+      "moving on",
+      "forgiveness",
+      "healing"
+    ],
+    "upright_meaning": "The Five of Cups mourns what has been lost while overlooking what remains. Grief and regret are valid, but don't let them blind you to the blessings that still surround you.",
+    "reversed_meaning": "Healing begins as you shift your focus from what was lost to what remains. Acceptance and forgiveness allow you to move forward.",
+    "upright_love": "Grief over a lost relationship or deep disappointment in love. You're mourning what might have been. Allow the grief, then look at what remains.",
+    "reversed_love": "Moving on from heartbreak and accepting what is. Forgiveness — of yourself and others — opens the door to new love.",
+    "upright_career": "Disappointment or regret over a missed opportunity or failed project. Process the disappointment, then look at what skills and lessons you can still salvage.",
+    "reversed_career": "Accepting a professional disappointment and moving forward with renewed purpose. The failure was not fatal.",
+    "upright_friendship": "Grief over a lost friendship or deep disappointment in someone you trusted. It's okay to mourn what was.",
+    "reversed_friendship": "Healing from a friendship loss and finding the courage to trust and connect again."
+  },
+  {
+    "id": "six-of-cups",
+    "name": "Six of Cups",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/6cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "nostalgia",
+      "childhood",
+      "innocence",
+      "reunions"
+    ],
+    "reversed_keywords": [
+      "living in the past",
+      "naivety",
+      "stuck in memory",
+      "no longer relevant"
+    ],
+    "upright_meaning": "The Six of Cups is bathed in the warm glow of nostalgia. Happy memories, childhood innocence, and joyful reunions with people from your past are highlighted.",
+    "reversed_meaning": "Living too much in the past prevents you from embracing the present. Pleasant memories are fine, but don't let nostalgia become an escape.",
+    "upright_love": "A reunion with a past love, or a relationship with a warm, innocent, nostalgic quality. Old flames may reappear.",
+    "reversed_love": "Clinging to past relationships or an idealized memory of love that no longer serves you. Release the past to embrace the present.",
+    "upright_career": "Reconnecting with skills or work from your past that brought joy. A former colleague or old industry connection resurfaces helpfully.",
+    "reversed_career": "Stuck in old ways of working that no longer apply. Nostalgia for a career that has passed prevents forward movement.",
+    "upright_friendship": "A beautiful reunion with childhood friends or a friendship that brings out your most innocent, joyful self.",
+    "reversed_friendship": "Clinging to a friendship out of nostalgia rather than genuine current connection. Ask whether this friendship still serves who you are today."
+  },
+  {
+    "id": "seven-of-cups",
+    "name": "Seven of Cups",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/7cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "choices",
+      "fantasy",
+      "illusion",
+      "wishful thinking"
+    ],
+    "reversed_keywords": [
+      "clarity",
+      "decisive action",
+      "alignment",
+      "cutting through illusion"
+    ],
+    "upright_meaning": "The Seven of Cups presents you with a dizzying array of choices, fantasies, and illusions. Not all that glitters is gold — discern what is real from what is wishful thinking.",
+    "reversed_meaning": "The fog of illusion clears and you see your options with crystal clarity. Make a decisive choice and move forward with real action.",
+    "upright_love": "Too many romantic options or unrealistic expectations cloud your love life. Ground your desires in reality before committing.",
+    "reversed_love": "Clarity arrives about what you truly want in love. You're ready to make a real choice and commit fully.",
+    "upright_career": "Overwhelmed by too many options or distracted by unrealistic career fantasies. Get grounded and focus on what's truly achievable.",
+    "reversed_career": "Decisive clarity about your career direction. After much confusion, you know exactly what path to take.",
+    "upright_friendship": "Idealized expectations of friendships lead to disappointment. See your friends as they truly are, beautifully imperfect.",
+    "reversed_friendship": "Clear-eyed perception of your friendships. You see people as they truly are and value them accordingly."
+  },
+  {
+    "id": "eight-of-cups",
+    "name": "Eight of Cups",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/8cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "walking away",
+      "disillusionment",
+      "abandonment",
+      "withdrawal"
+    ],
+    "reversed_keywords": [
+      "fear of moving on",
+      "staying with the familiar",
+      "avoiding loss",
+      "aimlessness"
+    ],
+    "upright_meaning": "The Eight of Cups turns its back on what no longer fulfills. Walking away from what once brought happiness takes courage — but your soul is calling you toward something greater.",
+    "reversed_meaning": "Fear of leaving the familiar keeps you in a situation that no longer serves you. You know you should move on but can't bring yourself to leave.",
+    "upright_love": "Walking away from a relationship that no longer fulfills you emotionally, even if it looks fine from the outside. Your soul knows it's time.",
+    "reversed_love": "You know you should leave but can't. Fear of aloneness or loss keeps you in a relationship that has emotionally run its course.",
+    "upright_career": "Leaving a career or job that no longer brings meaning or fulfillment. The courage to walk away opens the door to something deeply rewarding.",
+    "reversed_career": "Fear of the unknown keeps you in a job you've outgrown. Staying out of financial fear when your soul needs change.",
+    "upright_friendship": "Walking away from a friendship that has become emotionally draining or unfulfilling. Honoring your own needs isn't selfish.",
+    "reversed_friendship": "Unable to leave a friendship that no longer serves you. Fear of hurting others keeps you in dynamics that hurt you."
+  },
+  {
+    "id": "nine-of-cups",
+    "name": "Nine of Cups",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/9cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "contentment",
+      "satisfaction",
+      "gratitude",
+      "wish fulfillment"
+    ],
+    "reversed_keywords": [
+      "overindulgence",
+      "materialism",
+      "dissatisfaction",
+      "greed"
+    ],
+    "upright_meaning": "The wish card! The Nine of Cups signals deep contentment and the fulfillment of your heart's desires. Your emotional needs are met. Sit back and enjoy the abundance.",
+    "reversed_meaning": "Material fulfillment without inner satisfaction. Overindulgence or a sense that what you wished for isn't actually what you wanted.",
+    "upright_love": "Your love wishes are coming true. Whether in a relationship or seeking one, emotional satisfaction and romantic fulfillment are yours.",
+    "reversed_love": "You got what you wished for in love, but it doesn't feel like you expected. Or overindulgence in romantic pleasures leads to emptiness.",
+    "upright_career": "Professional satisfaction and the achievement of a long-held career goal. Celebrate your success — you've earned it.",
+    "reversed_career": "Achieving career goals but feeling hollow about them. Success without meaning breeds emptiness.",
+    "upright_friendship": "Deep satisfaction in your friendships. The connections in your life are genuinely fulfilling and nourishing.",
+    "reversed_friendship": "Social overindulgence or surface-level connections that don't truly satisfy. Seek depth over breadth in your social life."
+  },
+  {
+    "id": "ten-of-cups",
+    "name": "Ten of Cups",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/10cups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "divine love",
+      "bliss",
+      "harmony",
+      "family"
+    ],
+    "reversed_keywords": [
+      "broken home",
+      "unhappy family",
+      "disharmony",
+      "unrealistic expectations"
+    ],
+    "upright_meaning": "The Ten of Cups is the card of happily ever after. Emotional fulfillment, family harmony, and lasting love create a life of deep, abiding bliss.",
+    "reversed_meaning": "Family discord or disharmony shatters the dream of domestic bliss. Unrealistic expectations of perfection lead to disappointment.",
+    "upright_love": "The ultimate love card — soulmate connection, family joy, and lasting happiness. This is the love you've been dreaming of, and it's real.",
+    "reversed_love": "Family or relationship disharmony disrupts the dream of domestic happiness. Unrealistic expectations need to be released.",
+    "upright_career": "A career that aligns with your values and brings a sense of family-like community. Your work feels like a true calling, not just a job.",
+    "reversed_career": "Work-life imbalance creates friction at home. Career success at the expense of family harmony.",
+    "upright_friendship": "A friend group that feels like family — loyal, loving, and a true source of belonging. You are home with these people.",
+    "reversed_friendship": "Disharmony in your inner circle creates a sense of displacement. What was once your tribe may need reevaluation."
+  },
+  {
+    "id": "page-of-cups",
+    "name": "Page of Cups",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/pagecups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "creative opportunity",
+      "intuitive messages",
+      "curiosity",
+      "sensitivity"
+    ],
+    "reversed_keywords": [
+      "emotional immaturity",
+      "repressed emotions",
+      "creative blocks",
+      "instability"
+    ],
+    "upright_meaning": "A dreamy, intuitive messenger arrives bearing creative and emotional opportunities. The Page of Cups invites you to be open to unexpected, magical moments.",
+    "reversed_meaning": "Emotional immaturity or repressed feelings creating instability. Creative potential exists but is blocked by fear or emotional turmoil.",
+    "upright_love": "A sweet, romantic message or a tender, sensitive connection. A love that is imaginative and emotionally open.",
+    "reversed_love": "Emotional immaturity in love. Unclear signals or emotional manipulation clouds genuine connection.",
+    "upright_career": "A creative, intuitive career opportunity appears unexpectedly. Be open to the unconventional path.",
+    "reversed_career": "Creative blocks or emotional instability affecting professional life. Get your inner world in order first.",
+    "upright_friendship": "A sensitive, imaginative new friend who sees the world differently. This connection opens your heart.",
+    "reversed_friendship": "An emotionally immature friend who creates drama or plays hot and cold."
+  },
+  {
+    "id": "knight-of-cups",
+    "name": "Knight of Cups",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/knightcups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "romance",
+      "charm",
+      "imagination",
+      "diplomacy"
+    ],
+    "reversed_keywords": [
+      "moodiness",
+      "jealousy",
+      "unrealistic",
+      "over-emotional"
+    ],
+    "upright_meaning": "The Knight of Cups rides in with romantic idealism, creative vision, and charming diplomacy. He's the poet, the romantic — following his heart wherever it leads.",
+    "reversed_meaning": "Moodiness, jealousy, or unrealistic romantic expectations derail what could be a beautiful connection.",
+    "upright_love": "A romantic, idealistic suitor arrives. The love story unfolds like a fairytale — beautiful, heartfelt, and full of creative expression.",
+    "reversed_love": "A moody or jealous partner creates emotional turbulence. Or you're chasing an idealized love that doesn't exist in reality.",
+    "upright_career": "Bringing creative vision and emotional intelligence to your work. A charming, diplomatic approach wins people over.",
+    "reversed_career": "Moody, inconsistent work behavior or chasing unrealistic career fantasies undermines your professional credibility.",
+    "upright_friendship": "A romantic, idealistic friend who makes life feel like poetry. They bring beauty and heart to every interaction.",
+    "reversed_friendship": "An emotionally volatile friend whose moods create instability in the friendship."
+  },
+  {
+    "id": "queen-of-cups",
+    "name": "Queen of Cups",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/queencups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "compassion",
+      "calm",
+      "comfort",
+      "intuition"
+    ],
+    "reversed_keywords": [
+      "insecurity",
+      "dependence",
+      "oversensitivity",
+      "martyrdom"
+    ],
+    "upright_meaning": "The Queen of Cups embodies compassionate, emotionally intelligent wisdom. She holds space for others' emotions with grace and deep intuitive understanding.",
+    "reversed_meaning": "Emotional insecurity, codependence, or martyrdom masquerades as compassion. Care for yourself before losing yourself in others' needs.",
+    "upright_love": "Compassionate, emotionally intelligent love. A partner who truly sees and holds your emotional world with tender care.",
+    "reversed_love": "Emotional insecurity or codependence creating unhealthy patterns. Love that smothers rather than supports.",
+    "upright_career": "Bringing emotional intelligence and compassionate leadership to the workplace. You create safe, nurturing environments where teams thrive.",
+    "reversed_career": "Taking on too much emotional burden at work or being manipulated through your compassion. Set firm boundaries.",
+    "upright_friendship": "You are the emotionally wise, deeply empathic friend everyone turns to. Your presence is genuinely healing.",
+    "reversed_friendship": "Martyr dynamics in friendship — giving too much until resentment builds. Compassion requires boundaries."
+  },
+  {
+    "id": "king-of-cups",
+    "name": "King of Cups",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "cups",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/kingcups.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "emotionally balanced",
+      "compassionate",
+      "diplomatic",
+      "calm"
+    ],
+    "reversed_keywords": [
+      "emotional manipulation",
+      "volatility",
+      "moodiness",
+      "coldness"
+    ],
+    "upright_meaning": "The King of Cups masters his emotional world without suppressing it. He's the wise, emotionally balanced leader who leads with both heart and mind.",
+    "reversed_meaning": "Emotional manipulation, volatility, or complete emotional shutdown. The King's power becomes toxic when wielded with ego rather than wisdom.",
+    "upright_love": "A mature, emotionally available partner who brings stability, depth, and compassionate understanding to the relationship.",
+    "reversed_love": "An emotionally manipulative or volatile partner. Or emotional shutdown making genuine intimacy impossible.",
+    "upright_career": "Calm, compassionate leadership that navigates emotional complexity with wisdom. You're the one who keeps their head when others lose theirs.",
+    "reversed_career": "Emotional manipulation or volatility in leadership positions creates a toxic work environment.",
+    "upright_friendship": "A deeply wise, emotionally mature friend who offers balanced perspective and genuine compassion.",
+    "reversed_friendship": "An emotionally manipulative friend who uses your feelings against you. Recognize the dynamic and protect yourself."
+  },
+  {
+    "id": "ace-of-swords",
+    "name": "Ace of Swords",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/aceswords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "clarity",
+      "breakthrough",
+      "truth",
+      "new ideas"
+    ],
+    "reversed_keywords": [
+      "confusion",
+      "brutal honesty",
+      "mental fog",
+      "wrong decision"
+    ],
+    "upright_meaning": "The Ace of Swords cuts through confusion with razor-sharp clarity. A breakthrough in thinking, a powerful new idea, or the truth laid bare — prepare for mental illumination.",
+    "reversed_meaning": "Mental confusion and foggy thinking cloud your judgment. A decision made now may be poorly reasoned. Wait for clarity.",
+    "upright_love": "Brutal honesty clears the air in a relationship. The truth — however sharp — sets you free to build something real.",
+    "reversed_love": "Miscommunication and mental confusion create misunderstanding. Don't make love decisions from a place of mental fog.",
+    "upright_career": "A brilliant new idea or professional breakthrough cuts through complexity. Communicate with clarity and directness.",
+    "reversed_career": "Mental fog or poor communication creates professional confusion. Avoid major decisions until clarity returns.",
+    "upright_friendship": "Clear, honest communication strengthens a friendship. The truth shared with care deepens trust.",
+    "reversed_friendship": "Harsh words or miscommunication damages a friendship. Speak your truth with care, not as a weapon."
+  },
+  {
+    "id": "two-of-swords",
+    "name": "Two of Swords",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/2swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "indecision",
+      "stalemate",
+      "blocked emotions",
+      "avoidance"
+    ],
+    "reversed_keywords": [
+      "indecision breaking",
+      "confusion",
+      "information overload",
+      "no good options"
+    ],
+    "upright_meaning": "Blindfolded with swords crossed, the Two of Swords depicts a stalemate. You're blocking information or emotion to avoid making a difficult decision. The blockage must be removed.",
+    "reversed_meaning": "The blindfold is slipping. Information overload or the exposure of hidden truths forces a decision you've been avoiding.",
+    "upright_love": "An emotional stalemate in love. Both parties are guarded and unwilling to show their true feelings. Someone must lower their defenses first.",
+    "reversed_love": "Hidden information about a love situation is being revealed. The stalemate breaks — now you must decide what to do with what you know.",
+    "upright_career": "A professional stalemate or difficult decision that you're avoiding. You have more information than you're acknowledging — face it.",
+    "reversed_career": "A career decision you've been avoiding is being forced by circumstances. The information overload makes an already difficult choice harder.",
+    "upright_friendship": "An unspoken tension or unresolved issue creates a stalemate in a friendship. Honest conversation is the only way through.",
+    "reversed_friendship": "A hidden friendship conflict is surfacing. What has been unspoken is becoming undeniable."
+  },
+  {
+    "id": "three-of-swords",
+    "name": "Three of Swords",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/3swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "heartbreak",
+      "grief",
+      "pain",
+      "sorrow"
+    ],
+    "reversed_keywords": [
+      "recovery",
+      "releasing pain",
+      "forgiveness",
+      "moving on"
+    ],
+    "upright_meaning": "The Three of Swords pierces the heart with grief, heartbreak, and sorrow. This pain is real and must be felt — there is no shortcut through the heartache.",
+    "reversed_meaning": "The pain is beginning to lift. You're releasing old grief, forgiving past wounds, and finding the courage to open your heart again.",
+    "upright_love": "Heartbreak, betrayal, or painful loss in love. The grief is profound. Allow yourself to feel it without judgment.",
+    "reversed_love": "Healing from heartbreak. The pain is easing and you're finding the capacity for forgiveness — of others and yourself.",
+    "upright_career": "A painful professional loss, rejection, or betrayal. Grieve it appropriately, then use the pain as fuel for something better.",
+    "reversed_career": "Recovery from professional heartbreak. The sting is fading and lessons are being integrated.",
+    "upright_friendship": "Betrayal or painful loss of a friendship cuts deeply. Honor the grief — these wounds deserve to be felt.",
+    "reversed_friendship": "Healing from a friendship betrayal. The pain fades as you integrate the lessons and open to new trust."
+  },
+  {
+    "id": "four-of-swords",
+    "name": "Four of Swords",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/4swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "rest",
+      "recovery",
+      "contemplation",
+      "healing"
+    ],
+    "reversed_keywords": [
+      "restlessness",
+      "burnout",
+      "recovery",
+      "re-entering the world"
+    ],
+    "upright_meaning": "Rest is not retreat — it is preparation. The Four of Swords calls you to step back, recover, and allow your mind and body to heal before re-engaging with life's battles.",
+    "reversed_meaning": "Restlessness prevents true recovery. You're forcing yourself back into action before you're truly ready. Or you've rested enough and it's time to re-engage.",
+    "upright_love": "A necessary retreat from the intensity of a relationship. Take space to recover and return with a clearer head and renewed perspective.",
+    "reversed_love": "Restlessness after a period of love withdrawal. You're ready to re-engage, or you're refusing necessary rest.",
+    "upright_career": "A sabbatical, vacation, or enforced break from work is exactly what you need. Don't fight the rest — use it wisely.",
+    "reversed_career": "Burnout from refusing to rest, or restlessness pushing you back into the field before full recovery.",
+    "upright_friendship": "Stepping back from social life to rest and recharge. True friends will understand your need for solitude.",
+    "reversed_friendship": "Returning to your social circle after a period of isolation. Re-engage gently and at your own pace."
+  },
+  {
+    "id": "five-of-swords",
+    "name": "Five of Swords",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/5swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "conflict",
+      "defeat",
+      "win at all costs",
+      "betrayal"
+    ],
+    "reversed_keywords": [
+      "reconciliation",
+      "moving on",
+      "forgiveness",
+      "desire for change"
+    ],
+    "upright_meaning": "A battle won at too great a cost. The Five of Swords warns against pyrrhic victories. Winning a conflict through underhanded means or at others' expense will leave you hollow.",
+    "reversed_meaning": "A desire for reconciliation and peace after conflict. Letting go of the need to win and choosing forgiveness instead.",
+    "upright_love": "Conflict and power struggles in a relationship where someone always has to win. The damage done may outweigh any victory.",
+    "reversed_love": "Moving past relationship conflict toward reconciliation. Choosing love over being right.",
+    "upright_career": "A toxic work environment of cutthroat competition and underhanded tactics. Is this battle worth winning?",
+    "reversed_career": "Choosing to leave a toxic work conflict behind and move on to healthier professional environments.",
+    "upright_friendship": "A friendship damaged by betrayal or someone who always has to win. Consider whether this dynamic is worth maintaining.",
+    "reversed_friendship": "Reconciliation after a friendship conflict. Both parties choose peace over pride."
+  },
+  {
+    "id": "six-of-swords",
+    "name": "Six of Swords",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/6swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "transition",
+      "moving on",
+      "healing",
+      "rite of passage"
+    ],
+    "reversed_keywords": [
+      "personal transition",
+      "resistance to change",
+      "unfinished business",
+      "going backwards"
+    ],
+    "upright_meaning": "You are being carried from turbulent waters toward calmer shores. The Six of Swords signifies a healing transition — leaving trouble behind and moving toward peace.",
+    "reversed_meaning": "Resistance to necessary transition or unfinished emotional business pulls you back into troubled waters. Face what you're avoiding.",
+    "upright_love": "Moving away from relationship turmoil toward a calmer, more peaceful period. A healing transition after difficulty.",
+    "reversed_love": "Resisting the necessary transition or returning to a troubled relationship. Unfinished emotional business holds you back.",
+    "upright_career": "Leaving a difficult work situation behind and transitioning toward better professional waters. The journey may not be comfortable, but it's necessary.",
+    "reversed_career": "Resistance to a necessary career transition. Unfinished business or emotional attachment keeps you in a situation you've outgrown.",
+    "upright_friendship": "Moving on from a difficult friendship situation toward more peaceful social waters. The transition is necessary.",
+    "reversed_friendship": "Returning to a troubled friendship dynamic that you'd already moved away from. Ask yourself why you're going back."
+  },
+  {
+    "id": "seven-of-swords",
+    "name": "Seven of Swords",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/7swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "deception",
+      "cunning",
+      "strategic",
+      "sneaky"
+    ],
+    "reversed_keywords": [
+      "coming clean",
+      "deception revealed",
+      "facing consequences",
+      "conscience"
+    ],
+    "upright_meaning": "The Seven of Swords signals cunning strategy, deception, or a sneaky approach to a problem. Someone is not being fully honest — check carefully whether it's someone else or your own conscience speaking.",
+    "reversed_meaning": "A deception is being revealed or a guilty conscience is pushing someone to come clean. The truth will out.",
+    "upright_love": "Dishonesty, lies, or a sneaky approach to romantic situations. Someone in your love life — or you yourself — may not be playing with full honesty.",
+    "reversed_love": "A romantic deception is being revealed. The truth comes to light and must be dealt with honestly.",
+    "upright_career": "Strategic thinking is needed, but be careful of crossing ethical lines. Someone at work may be operating dishonestly.",
+    "reversed_career": "A workplace deception or dishonest colleague is exposed. Face the consequences of any corner-cutting.",
+    "upright_friendship": "A friend may be behaving deceptively or keeping important information from you. Trust your instincts.",
+    "reversed_friendship": "A friendship deception comes to light. Honesty is the only path to healing the relationship."
+  },
+  {
+    "id": "eight-of-swords",
+    "name": "Eight of Swords",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/8swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "imprisonment",
+      "victim mentality",
+      "self-limitation",
+      "restriction"
+    ],
+    "reversed_keywords": [
+      "liberation",
+      "new perspective",
+      "releasing restriction",
+      "personal responsibility"
+    ],
+    "upright_meaning": "Blindfolded and bound, yet the sword that imprisons you is in your mind. The Eight of Swords reveals that most of your limitations are self-imposed. Remove the blindfold and see your freedom.",
+    "reversed_meaning": "Liberation from self-imposed restrictions. You're taking responsibility for your own freedom and stepping out of the mental prison you've built.",
+    "upright_love": "Feeling trapped in a relationship through fear, dependency, or a distorted sense of obligation. The cage is largely mental.",
+    "reversed_love": "Breaking free from limiting love patterns or a relationship that felt imprisoning. You reclaim your autonomy.",
+    "upright_career": "Feeling trapped in your career by circumstances you believe you can't change. Examine your limiting beliefs — more options exist than you're allowing yourself to see.",
+    "reversed_career": "Breaking free from limiting career beliefs. You're taking responsibility for creating the professional life you want.",
+    "upright_friendship": "Feeling obligated to maintain friendships out of guilt or fear of conflict. Your boundaries have been violated by your own beliefs.",
+    "reversed_friendship": "Releasing yourself from friendships that felt obligatory. You're choosing your connections with intention."
+  },
+  {
+    "id": "nine-of-swords",
+    "name": "Nine of Swords",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/9swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "anxiety",
+      "worry",
+      "fear",
+      "nightmares"
+    ],
+    "reversed_keywords": [
+      "releasing anxiety",
+      "inner turbulence",
+      "healing from trauma",
+      "dawn after darkness"
+    ],
+    "upright_meaning": "The Nine of Swords is the anxiety card — worry and fear in the dead of night when problems loom larger than they are. Your mind is creating monsters. Seek the light.",
+    "reversed_meaning": "Anxiety is lessening as you find ways to process fear and worry. The dawn is breaking after a very dark night of the soul.",
+    "upright_love": "Anxiety and worst-case thinking about love is creating unnecessary suffering. Your fears about the relationship may be far worse than reality.",
+    "reversed_love": "Healing from love anxiety and fear. The worries are beginning to lift as you develop trust.",
+    "upright_career": "Overwhelming anxiety about career situations keeps you up at night. Separate real concerns from catastrophizing.",
+    "reversed_career": "Professional anxiety is easing. You're developing better coping strategies and the situation is less dire than feared.",
+    "upright_friendship": "Worrying excessively about friendship situations — what others think of you, whether you said the right thing. This anxiety is largely unfounded.",
+    "reversed_friendship": "Social anxiety lessens as you develop confidence in your connections. The fear of rejection doesn't have to rule you."
+  },
+  {
+    "id": "ten-of-swords",
+    "name": "Ten of Swords",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/10swords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "painful endings",
+      "deep wounds",
+      "betrayal",
+      "loss"
+    ],
+    "reversed_keywords": [
+      "recovery",
+      "regeneration",
+      "surviving",
+      "dawn after darkness"
+    ],
+    "upright_meaning": "Rock bottom. The Ten of Swords marks the absolute lowest point — a painful ending that feels devastating. But with the lowest comes the dawn. The only direction now is up.",
+    "reversed_meaning": "You're surviving the darkest moment and beginning to recover. The worst is over. Slowly, the light returns.",
+    "upright_love": "A devastating romantic ending or betrayal. The pain is real and deep. Allow yourself to grieve fully — this is the only way through.",
+    "reversed_love": "Recovering from a painful love ending. The worst of the pain is receding and healing begins.",
+    "upright_career": "A professional catastrophe — job loss, public failure, or devastating setback. The ending, though painful, clears the way for genuine rebuilding.",
+    "reversed_career": "Beginning to recover from a professional disaster. Survival mode shifts toward rebuilding.",
+    "upright_friendship": "A profound friendship betrayal wounds you deeply. This ending, though painful, reveals who your true allies are.",
+    "reversed_friendship": "Recovery from a friendship betrayal. You're finding your footing again after being blindsided."
+  },
+  {
+    "id": "page-of-swords",
+    "name": "Page of Swords",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/pageswords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "curiosity",
+      "ideas",
+      "chatty",
+      "vigilant"
+    ],
+    "reversed_keywords": [
+      "cynicism",
+      "reckless words",
+      "scheming",
+      "defensive"
+    ],
+    "upright_meaning": "The Page of Swords is quick-witted, curious, and mentally agile. New information arrives and ideas come fast. Stay vigilant and think before speaking.",
+    "reversed_meaning": "Sharp words used as weapons, cynicism, or immature mental gymnastics. The Page's wit turns cutting.",
+    "upright_love": "Mental connection and stimulating conversations light up a romance. A new love interest arrives with quick wit and curious intelligence.",
+    "reversed_love": "Cutting words or gossipy behavior damages romantic connection. Think carefully before speaking in matters of the heart.",
+    "upright_career": "Quick thinking and information gathering give you a professional edge. Stay curious and vigilant about new developments.",
+    "reversed_career": "Reckless communication or scheming behavior at work creates problems. Use your words thoughtfully.",
+    "upright_friendship": "A sharp, witty friend who keeps you on your toes with stimulating conversation and quick observations.",
+    "reversed_friendship": "A friend who gossips, schemes, or uses words as weapons. Be cautious about what you share with them."
+  },
+  {
+    "id": "knight-of-swords",
+    "name": "Knight of Swords",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/knightswords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "ambition",
+      "action",
+      "driven",
+      "fast-talking"
+    ],
+    "reversed_keywords": [
+      "restless",
+      "unfocused",
+      "rash decisions",
+      "scattered"
+    ],
+    "upright_meaning": "The Knight of Swords charges forward with intellectual fire and unstoppable ambition. He's direct, decisive, and determined — cutting through obstacles at full speed.",
+    "reversed_meaning": "Rash, thoughtless decisions and scattered mental energy lead to chaos. Slow down and think before drawing your sword.",
+    "upright_love": "A direct, honest approach to love. You say what you mean and mean what you say. A fast-moving romance develops with intellectual intensity.",
+    "reversed_love": "Rash words or thoughtless actions wound a romantic relationship. Slow down and think before speaking or acting.",
+    "upright_career": "Ambitious, fast-moving career energy. You attack challenges with intellectual force and decisive action. The momentum is impressive.",
+    "reversed_career": "Reckless professional decisions made without sufficient thought. The rush to action creates more problems than it solves.",
+    "upright_friendship": "A bold, direct friend who speaks their mind without filters. Their honesty can be refreshing or jarring depending on the moment.",
+    "reversed_friendship": "Rash, thoughtless words from a friend that wound without intent. Direct communication style needs tempering with empathy."
+  },
+  {
+    "id": "queen-of-swords",
+    "name": "Queen of Swords",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/queenswords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "clear boundaries",
+      "direct communication",
+      "independent",
+      "sharp wit"
+    ],
+    "reversed_keywords": [
+      "cold-hearted",
+      "cruel",
+      "bitter",
+      "close-minded"
+    ],
+    "upright_meaning": "The Queen of Swords rules with a sharp mind, clear boundaries, and uncompromising truth. She has survived difficulty and emerged as a clear-eyed, independent thinker.",
+    "reversed_meaning": "Bitterness and coldness harden the Queen's wisdom into cruelty. Past pain has created an impenetrable wall.",
+    "upright_love": "Clear boundaries and honest communication define this love. A partner who respects you enough to tell you the truth — and expects the same.",
+    "reversed_love": "Coldness or cruelty in love. Past wounds have made someone too defended to receive love openly.",
+    "upright_career": "Sharp, decisive leadership with clear boundaries and direct communication. You don't sugarcoat, and people respect you for it.",
+    "reversed_career": "A cold, harsh management style that demoralizes rather than motivates. Bitterness may be clouding professional judgment.",
+    "upright_friendship": "The friend who tells you what you need to hear, not what you want to hear. Brilliant, clear-eyed, and fiercely loyal to truth.",
+    "reversed_friendship": "Bitterness or cruelty masquerading as honesty in a friendship. There's a difference between direct and unkind."
+  },
+  {
+    "id": "king-of-swords",
+    "name": "King of Swords",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "swords",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/kingswords.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "intellectual power",
+      "authority",
+      "truth",
+      "clear thinking"
+    ],
+    "reversed_keywords": [
+      "manipulation",
+      "cruelty",
+      "abuse of power",
+      "tyranny"
+    ],
+    "upright_meaning": "The King of Swords commands with intellectual authority, clear thinking, and unwavering commitment to truth and justice. His mind is his greatest weapon and his greatest gift.",
+    "reversed_meaning": "Intellectual power weaponized as cruelty, manipulation, or tyranny. Truth becomes a tool for control rather than justice.",
+    "upright_love": "A partner of great intellect and clear, honest communication. The relationship is built on truth, respect, and mental compatibility.",
+    "reversed_love": "Mental cruelty or manipulation in a relationship. Words used as weapons to control or belittle.",
+    "upright_career": "An authority figure or your own intellectual leadership drives professional success. Clear thinking and decisive judgment are your greatest tools.",
+    "reversed_career": "Abuse of intellectual authority creates a toxic work environment. Tyrannical management or manipulation needs to be confronted.",
+    "upright_friendship": "A friend of great intellectual depth who challenges you to think more clearly. Conversations with them are transformative.",
+    "reversed_friendship": "A friend who uses their intelligence as a weapon or manipulates with clever words. Your wellbeing comes first."
+  },
+  {
+    "id": "ace-of-pentacles",
+    "name": "Ace of Pentacles",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/acepent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "opportunity",
+      "prosperity",
+      "new beginnings",
+      "manifestation"
+    ],
+    "reversed_keywords": [
+      "lost opportunity",
+      "poor financial planning",
+      "missed chance",
+      "unstable foundation"
+    ],
+    "upright_meaning": "A golden opportunity for material abundance and new financial beginnings is being extended to you. The Ace of Pentacles is the seed of prosperity — plant it wisely.",
+    "reversed_meaning": "A financial opportunity is missed or an unstable foundation threatens material security. Poor planning leads to lost potential.",
+    "upright_love": "A relationship that provides genuine stability and security. Love that grows on solid, practical foundations.",
+    "reversed_love": "A relationship with shaky financial or material foundations. Security concerns strain romantic connection.",
+    "upright_career": "A brand new career opportunity or financial venture with real, tangible potential. The timing is perfect — act on it.",
+    "reversed_career": "A missed career opportunity or financially unstable venture. Better planning and timing needed.",
+    "upright_friendship": "A friendship that offers practical support and real material generosity. A friend who shows up in tangible ways.",
+    "reversed_friendship": "A friendship with a shaky foundation of trust and reliability. Promises made don't get kept."
+  },
+  {
+    "id": "two-of-pentacles",
+    "name": "Two of Pentacles",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/2pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "balance",
+      "adaptability",
+      "time management",
+      "prioritization"
+    ],
+    "reversed_keywords": [
+      "overloaded",
+      "disorganized",
+      "financial strain",
+      "imbalance"
+    ],
+    "upright_meaning": "Life is a juggling act right now, and you're managing it with impressive adaptability. The Two of Pentacles calls for skillful balance across competing priorities.",
+    "reversed_meaning": "The juggling act has become too much. Disorganization and financial strain signal the need to drop some balls and focus on what truly matters.",
+    "upright_love": "Balancing a relationship with the other demands of life. The juggle is real — make sure your partner doesn't feel deprioritized.",
+    "reversed_love": "Financial stress or life overwhelm is spilling into the relationship. Address the material instability before it damages the connection.",
+    "upright_career": "Skillfully juggling multiple projects or financial priorities. Adaptability is your superpower right now.",
+    "reversed_career": "Financial disorganization or an unmanageable workload creates professional chaos. Prioritize ruthlessly.",
+    "upright_friendship": "Balancing friendships with life's many other demands. Be intentional about making time for the people who matter.",
+    "reversed_friendship": "Too overwhelmed by life to maintain friendships properly. Something has to give — make sure it's not your most important connections."
+  },
+  {
+    "id": "three-of-pentacles",
+    "name": "Three of Pentacles",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/3pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "teamwork",
+      "collaboration",
+      "learning",
+      "implementation"
+    ],
+    "reversed_keywords": [
+      "disharmony",
+      "misalignment",
+      "working alone",
+      "poor teamwork"
+    ],
+    "upright_meaning": "The Three of Pentacles celebrates the magic of skilled collaboration. Each person brings their unique expertise, and together the whole is greater than the sum of its parts.",
+    "reversed_meaning": "Team disharmony and poor collaboration undermine the quality of the work. Ego or misalignment of goals creates friction.",
+    "upright_love": "Building a relationship through shared effort, goals, and complementary strengths. Love that works because you're both committed to making it work.",
+    "reversed_love": "Relationship disharmony due to poor collaboration or misaligned goals. You're not working as a team.",
+    "upright_career": "Skilled collaboration brings professional success. A team where diverse skills complement each other creates exceptional results.",
+    "reversed_career": "Workplace disharmony, poor teamwork, or a toxic team dynamic undermines everyone's success.",
+    "upright_friendship": "A friendship where your complementary skills and perspectives make both of you better. True collaborative friendship.",
+    "reversed_friendship": "A friendship where different values, working styles, or goals create friction. Communication and compromise are needed."
+  },
+  {
+    "id": "four-of-pentacles",
+    "name": "Four of Pentacles",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/4pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "security",
+      "control",
+      "conservation",
+      "frugality"
+    ],
+    "reversed_keywords": [
+      "greed",
+      "materialism",
+      "over-spending",
+      "financial insecurity"
+    ],
+    "upright_meaning": "The Four of Pentacles grips its coins tightly. A desire for security and stability drives careful conservation of resources — but be careful that prudence doesn't become greed.",
+    "reversed_meaning": "Financial insecurity leads to either reckless overspending or extreme hoarding. The relationship with money needs examination.",
+    "upright_love": "A tendency to hold on too tightly in relationships out of fear of loss. Love cannot grow when held in a clenched fist.",
+    "reversed_love": "Financial stress creating tension, or a partner who is controlling about money. Generosity creates connection.",
+    "upright_career": "Financial prudence and careful resource management ensure stability. Smart saving and conservative investment strategies.",
+    "reversed_career": "Financial hoarding prevents the investment needed for growth, or financial recklessness undermines security.",
+    "upright_friendship": "A friend who guards their time, energy, and resources carefully. While self-protection is valid, generosity deepens bonds.",
+    "reversed_friendship": "Financial dynamics creating tension in a friendship — either someone is too tight or too free with money."
+  },
+  {
+    "id": "five-of-pentacles",
+    "name": "Five of Pentacles",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/5pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "hardship",
+      "financial loss",
+      "isolation",
+      "worry"
+    ],
+    "reversed_keywords": [
+      "recovery",
+      "spiritual poverty ending",
+      "finding community",
+      "improving finances"
+    ],
+    "upright_meaning": "The Five of Pentacles finds you out in the cold — materially, spiritually, or emotionally. Financial difficulty or a sense of being left behind creates isolation. Look up — help is closer than you think.",
+    "reversed_meaning": "The worst of the financial or spiritual hardship is passing. Help arrives and recovery begins.",
+    "upright_love": "Financial stress or a sense of spiritual poverty strains the relationship. You may feel alone even with a partner. Seek support together.",
+    "reversed_love": "A relationship recovering from financial difficulty or emotional isolation. Reconnection and support rebuild the bond.",
+    "upright_career": "Financial hardship or job loss creates professional insecurity. Reach out for support — many resources exist that you may not be accessing.",
+    "reversed_career": "Financial recovery after a difficult period. New employment or income streams begin to stabilize the situation.",
+    "upright_friendship": "Feeling left out or isolated from your friend circle, possibly due to financial inequality. Don't suffer in silence.",
+    "reversed_friendship": "Reconnecting with friends after a period of isolation. Community and belonging return."
+  },
+  {
+    "id": "six-of-pentacles",
+    "name": "Six of Pentacles",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/6pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "generosity",
+      "charity",
+      "giving and receiving",
+      "prosperity"
+    ],
+    "reversed_keywords": [
+      "debt",
+      "selfishness",
+      "power dynamics",
+      "strings attached"
+    ],
+    "upright_meaning": "The Six of Pentacles embodies the beautiful flow of generosity — giving freely and receiving graciously. Prosperity is meant to be shared, and sharing creates more abundance.",
+    "reversed_meaning": "Charity with strings attached, or a power dynamic where generosity is used as control. Gifts that create debt rather than connection.",
+    "upright_love": "Generous, balanced giving and receiving in a relationship. Prosperity flows between partners without keeping score.",
+    "reversed_love": "Power dynamics around money or generosity in the relationship. One partner holds financial control as a form of power.",
+    "upright_career": "Generous salary, fair pay, or a role where you can contribute meaningfully to others. The flow of professional generosity works in your favor.",
+    "reversed_career": "Underpaid, undervalued, or tied to a job through financial dependency. Examine the power dynamics at play.",
+    "upright_friendship": "A generous, giving friendship where both people contribute meaningfully. Material generosity strengthens the bond.",
+    "reversed_friendship": "A friendship where money or generosity creates an uncomfortable power imbalance."
+  },
+  {
+    "id": "seven-of-pentacles",
+    "name": "Seven of Pentacles",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/7pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "long-term view",
+      "sustainable results",
+      "perseverance",
+      "investment"
+    ],
+    "reversed_keywords": [
+      "lack of long-term vision",
+      "limited success",
+      "impatience",
+      "poor investment"
+    ],
+    "upright_meaning": "The farmer surveys his crop — growth takes time. The Seven of Pentacles calls for patience and long-term vision. Your investments, though slow, are producing real results.",
+    "reversed_meaning": "Impatience or poor investment strategy undermines long-term growth. Cutting corners now will cost you later.",
+    "upright_love": "A relationship that grows slowly but steadily, built through consistent effort and long-term investment. Don't rush what needs time to mature.",
+    "reversed_love": "Impatience in love leads to rushing a relationship before it's ready, or giving up just before a breakthrough.",
+    "upright_career": "Your long-term career investments are beginning to bear fruit. Stay the course — the results of sustained effort are coming.",
+    "reversed_career": "Lack of patience or poor long-term planning undermines professional growth. Reassess your strategy.",
+    "upright_friendship": "A friendship that deepens over time through consistent investment and patience. These slow-grown connections are the most durable.",
+    "reversed_friendship": "Impatience with a friendship's pace or poor investment of time and energy creates a shallow connection."
+  },
+  {
+    "id": "eight-of-pentacles",
+    "name": "Eight of Pentacles",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/8pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "apprenticeship",
+      "skill development",
+      "dedication",
+      "mastery"
+    ],
+    "reversed_keywords": [
+      "perfectionism",
+      "lack of ambition",
+      "sloppy work",
+      "shortcuts"
+    ],
+    "upright_meaning": "The Eight of Pentacles is the master craftsperson at work — dedicated, focused, and committed to excellence. Skill development and diligent practice are your path to mastery.",
+    "reversed_meaning": "Perfectionism creating paralysis, or the opposite — cutting corners and producing shoddy work. Find the balance between excellence and completion.",
+    "upright_love": "Dedicated effort to become a better partner. Love as a craft — studying, learning, and growing into the best version of yourself in relationship.",
+    "reversed_love": "Perfectionism in love creates impossible standards, or a lack of effort means the relationship isn't getting the attention it deserves.",
+    "upright_career": "Deep dedication to your craft and professional mastery. The hours you put in are building genuine expertise that will pay dividends.",
+    "reversed_career": "Perfectionism blocks productivity, or cutting corners undermines the quality that leads to real success.",
+    "upright_friendship": "Putting genuine effort into being a great friend. Showing up consistently, listening deeply, and working at the relationship.",
+    "reversed_friendship": "A friendship that isn't receiving the dedication it needs, or perfectionism that prevents genuine vulnerability."
+  },
+  {
+    "id": "nine-of-pentacles",
+    "name": "Nine of Pentacles",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/9pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "abundance",
+      "luxury",
+      "self-sufficiency",
+      "financial independence"
+    ],
+    "reversed_keywords": [
+      "self-worth issues",
+      "reckless spending",
+      "over-reliance on others",
+      "superficiality"
+    ],
+    "upright_meaning": "The Nine of Pentacles is the embodiment of elegant self-sufficiency — you have created abundance through your own efforts and now enjoy it with refined grace.",
+    "reversed_meaning": "Material abundance without self-worth, or reckless spending that undermines true financial security. Examine your relationship with money and self.",
+    "upright_love": "You are complete in yourself and attract love from a place of wholeness, not need. A self-sufficient love that enriches without depending.",
+    "reversed_love": "Seeking security through a partner rather than building your own. Financial dependence creating relationship imbalance.",
+    "upright_career": "Financial independence and career success built on your own merit. You've created something to be proud of through sustained effort.",
+    "reversed_career": "Financial recklessness or over-reliance on others undermines your professional independence. Build your own security.",
+    "upright_friendship": "You are a self-sufficient, independent friend who enhances others' lives without needing them to fill a void.",
+    "reversed_friendship": "Over-reliance on friends for emotional or material support creates an unhealthy dynamic. Cultivate your own resources."
+  },
+  {
+    "id": "ten-of-pentacles",
+    "name": "Ten of Pentacles",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/10pent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "wealth",
+      "legacy",
+      "family",
+      "lasting success"
+    ],
+    "reversed_keywords": [
+      "family conflict",
+      "financial failure",
+      "broken legacy",
+      "instability"
+    ],
+    "upright_meaning": "The Ten of Pentacles represents enduring wealth, family legacy, and lasting success that transcends generations. You are building something that will stand the test of time.",
+    "reversed_meaning": "Family conflict over finances, or a legacy that is crumbling. Short-term thinking destroys what took generations to build.",
+    "upright_love": "A love that creates lasting family and generational stability. This relationship is the foundation of a beautiful legacy.",
+    "reversed_love": "Family conflict or financial issues threatening the foundation of a long-term relationship. Protect what you've built together.",
+    "upright_career": "Legacy-building career success. You're creating something that will endure — a business, a reputation, a body of work that stands the test of time.",
+    "reversed_career": "A professional legacy that is crumbling, or family-owned business conflict. Stabilize the foundations before they collapse.",
+    "upright_friendship": "Friendships that span generations and feel like family. Bonds that are woven into the fabric of your life's legacy.",
+    "reversed_friendship": "Old, established friend groups experiencing conflict over material issues or shifting values."
+  },
+  {
+    "id": "page-of-pentacles",
+    "name": "Page of Pentacles",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/pagepent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "manifestation",
+      "financial opportunity",
+      "skill development",
+      "diligence"
+    ],
+    "reversed_keywords": [
+      "lack of progress",
+      "procrastination",
+      "learning challenges",
+      "wasted opportunity"
+    ],
+    "upright_meaning": "The Page of Pentacles is the dedicated student of the material world — diligent, curious, and committed to developing the skills that build lasting success.",
+    "reversed_meaning": "Procrastination and wasted potential. A learning opportunity is being squandered through lack of discipline or focus.",
+    "upright_love": "A relationship that is carefully, diligently tended. Taking the time to learn how to love well — showing up, studying your partner, and growing together.",
+    "reversed_love": "Lack of effort or follow-through in building a relationship. Good intentions without consistent action.",
+    "upright_career": "A new skill or educational opportunity that will build your financial future. Commit to the learning process with patience.",
+    "reversed_career": "Procrastination and lack of follow-through on career development. Wasted opportunities due to inconsistency.",
+    "upright_friendship": "A new friendship where you're learning how to show up as a friend in practical, meaningful ways.",
+    "reversed_friendship": "A friendship where good intentions aren't backed by consistent follow-through. Words without action."
+  },
+  {
+    "id": "knight-of-pentacles",
+    "name": "Knight of Pentacles",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/knightpent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "hard work",
+      "productivity",
+      "routine",
+      "conservatism"
+    ],
+    "reversed_keywords": [
+      "laziness",
+      "boredom",
+      "feeling stuck",
+      "perfectionism"
+    ],
+    "upright_meaning": "The Knight of Pentacles is the reliable workhorse — methodical, dependable, and deeply committed to doing things right, even if it takes time. Slow and steady wins the race.",
+    "reversed_meaning": "Boredom, laziness, or feeling stuck in a rut. The grind has lost its meaning. Find a way to reignite the motivation.",
+    "upright_love": "A reliable, consistent partner who shows love through steady, dependable action. Not flashy, but deeply trustworthy.",
+    "reversed_love": "Boredom and routine have drained the romance from the relationship. Introduce some spontaneity without sacrificing stability.",
+    "upright_career": "Methodical hard work and reliable productivity are your professional superpowers. You're the one everyone counts on to deliver.",
+    "reversed_career": "Stuck in a professional rut with no motivation to change. Laziness or perfectionism blocking progress.",
+    "upright_friendship": "The most reliable friend you'll ever have. They always show up, always follow through, and always have your back.",
+    "reversed_friendship": "A friendship that has become routine and boring. Inject some novelty and shared adventure."
+  },
+  {
+    "id": "queen-of-pentacles",
+    "name": "Queen of Pentacles",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/queenpent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "nurturing",
+      "practical",
+      "providing financially",
+      "a working parent"
+    ],
+    "reversed_keywords": [
+      "financial independence issues",
+      "smothering",
+      "self-care neglect",
+      "work-home imbalance"
+    ],
+    "upright_meaning": "The Queen of Pentacles is the master of creating material abundance and warm, nurturing home environments. Practical, grounded, and deeply generous with her resources.",
+    "reversed_meaning": "Financial independence issues, smothering behavior, or neglecting self-care in service of others. You cannot pour from an empty cup.",
+    "upright_love": "A partner who loves through practical nurturing — creating a warm, secure home and generously providing for those they love.",
+    "reversed_love": "Smothering love or financial dynamics creating imbalance in the relationship. Self-care is essential for healthy love.",
+    "upright_career": "A natural at balancing career success with creating abundance in all areas. Your practical wisdom makes you an invaluable professional asset.",
+    "reversed_career": "Work-life imbalance or financial independence issues affecting professional performance. Address the underlying instability.",
+    "upright_friendship": "The friend who nurtures everyone with practical generosity — cooking, hosting, remembering birthdays, showing up with what's needed.",
+    "reversed_friendship": "Over-nurturing a friend to the point of smothering, or exhausting yourself by giving too much."
+  },
+  {
+    "id": "king-of-pentacles",
+    "name": "King of Pentacles",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "image": "https://i0.wp.com/www.thetarotlady.com/wp-content/uploads/2018/12/kingpent.jpg?w=300&ssl=1",
+    "upright_keywords": [
+      "abundance",
+      "prosperity",
+      "security",
+      "ambition"
+    ],
+    "reversed_keywords": [
+      "greed",
+      "materialism",
+      "financial irresponsibility",
+      "corruption"
+    ],
+    "upright_meaning": "The King of Pentacles has mastered the material world — abundant, secure, and deeply generous. He leads with a steady hand and a full treasury, providing stability for all in his domain.",
+    "reversed_meaning": "Greed, financial irresponsibility, or corruption tarnish the King's material success. Wealth without integrity is just gilded rot.",
+    "upright_love": "A partner who provides financial security, material comfort, and steady, unwavering love. This relationship is a safe harbor.",
+    "reversed_love": "Financial irresponsibility or greed creating relationship instability. Material security cannot substitute for genuine emotional connection.",
+    "upright_career": "Exceptional material success through ambitious, disciplined leadership. You build empires with patient strategy and unshakeable confidence.",
+    "reversed_career": "Financial irresponsibility, corruption, or greed undermining professional success and reputation.",
+    "upright_friendship": "A generous, stable friend who creates abundance in your life through both material and emotional investment.",
+    "reversed_friendship": "A friend whose relationship with money or status creates tension. Generosity must come without strings."
+  }
+]
