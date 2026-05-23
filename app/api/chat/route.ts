@@ -88,7 +88,7 @@ async function callGemini(
     model,
     config: {
       systemInstruction: systemPrompt,
-      maxOutputTokens: 2048,   // cukup untuk pembacaan awal yang panjang
+      maxOutputTokens: 8192,   // cukup untuk pembacaan awal yang panjang + follow-up
       temperature: 0.85,
     },
     history,
